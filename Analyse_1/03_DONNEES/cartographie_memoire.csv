@@ -1,0 +1,16 @@
+debut,fin,taille_ko,type,contenu
+0x80000,0x87FFF,32,vide,remplissage 0xC3 (opcode illegal) - zone libre, vecteurs en ROM masquee
+0x88000,0x8FFFF,32,code,bloc de demarrage: chaine TSW / table de 11 stubs jmps 8 / sub_88084 variante / sub_88384 init / sub_88462 auto-test / init CAPCOM-ADC-PIO + enregistrements a marqueurs AA55 en fin de bloc
+0x90000,0x90FFF,4,mixte,drivers bas niveau: SSC/SPI EEPROM (sub_97E42 hors plage) + copies memoire + chaine kennung 0x90022
+0x91000,0x93FFF,12,vide,remplissage 0xC3
+0x94000,0x9AFFF,28,code,couche systeme: ordonnancement des taches, diagnostic, memorisation des defauts
+0x9B000,0x9FFFF,20,code,acces EEPROM serie 95P08 via SSC (0x97E42/0x97E76 driver SPI, 0x9FC06-0x9FE8C couche haute) + gestion defauts
+0xA0000,0xBEFFF,124,code,coeur applicatif: regulation, injection, suralimentation, EGR, limitation de couple
+0xBF000,0xBF3FF,1,mixte,bloc d identification secondaire (B075WF2S01 / 1037353776 + en-tete)
+0xC0000,0xD4FFF,84,code,applicatif + tables de constantes (sous-blocs de donnees en 0xC3000 0xC4000 0xCD000 0xCF000)
+0xD5000,0xDFFFF,44,vide,remplissage 0xC3
+0xE0000,0xEBFFF,48,donnees,DATENSAT copie 1: en-tete 5555 + table de 145 pointeurs (0xE0020) + axes/descripteurs + pointeurs vers les valeurs de cartographies + chaines de variante (__NFGDWPF1, ETK ON)
+0xEC000,0xEFFFF,16,vide,remplissage 0xC3
+0xF0000,0xFBFFF,48,donnees,DATENSAT copie 2 - identique a la copie 1 (100% sauf 3 octets)
+0xFC000,0xFEFFF,12,code,couche diagnostic KWP2000 "D2": automate d etats byte_FC12, buffer requete 0xFA20, services (0xFDE2A, 0xFD6B6, 0xFDCC4, 0xFE332..0xFEB22)
+0xFF000,0xFFFFF,4,donnees,bloc d identification 0xFCC00 (n de piece + table de 10 descripteurs) + descripteur BOOT 0xFFF00 + fin de flash

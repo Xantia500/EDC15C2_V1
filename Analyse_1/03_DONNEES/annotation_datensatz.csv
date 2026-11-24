@@ -1,0 +1,1305 @@
+handle,EA,taille_bloc,variable,nom,n,4+4n,axe min..max,verdict
+1400,0xE100A,20,,,,,,pas d en-tete 1-D
+1402,0xE101E,8,,,,,,pas d en-tete 1-D
+1404,0xE1026,36,,,,,,pas d en-tete 1-D
+1406,0xE104A,36,,,,,,pas d en-tete 1-D
+1408,0xE106E,20,,,,,,pas d en-tete 1-D
+140A,0xE1082,36,,,,,,pas d en-tete 1-D
+140C,0xE10A6,20,,,,,,pas d en-tete 1-D
+140E,0xE10BA,36,,,,,,pas d en-tete 1-D
+1410,0xE10DE,20,,,,,,pas d en-tete 1-D
+1412,0xE10F2,2,,,,,,pas d en-tete 1-D
+1414,0xE10F4,8,,,,,,pas d en-tete 1-D
+1416,0xE10FC,10,,,,,,pas d en-tete 1-D
+1418,0xE1106,12,,,,,,pas d en-tete 1-D
+141A,0xE1112,12,,,,,,pas d en-tete 1-D
+141C,0xE111E,42,,,,,,pas d en-tete 1-D
+141E,0xE1148,52,,,,,,pas d en-tete 1-D
+1420,0xE117C,36,,,,,,pas d en-tete 1-D
+1422,0xE11A0,36,,,,,,pas d en-tete 1-D
+1424,0xE11C4,40,,,,,,pas d en-tete 1-D
+1426,0xE11EC,32,,,,,,pas d en-tete 1-D
+1428,0xE120C,32,,,,,,pas d en-tete 1-D
+142A,0xE122C,10,,,,,,pas d en-tete 1-D
+142C,0xE1236,22,,,,,,pas d en-tete 1-D
+142E,0xE124C,4,,,,,,pas d en-tete 1-D
+1430,0xE1250,20,,,,,,pas d en-tete 1-D
+1432,0xE1264,48,,,,,,pas d en-tete 1-D
+1434,0xE1294,14,,,,,,pas d en-tete 1-D
+1436,0xE12A2,8,,,,,,pas d en-tete 1-D
+1438,0xE12AA,34,,,,,,pas d en-tete 1-D
+143A,0xE12CC,2,,,,,,pas d en-tete 1-D
+143C,0xE12CE,20,,,,,,pas d en-tete 1-D
+143E,0xE12E2,20,,,,,,pas d en-tete 1-D
+1440,0xE12F6,24,0xC42E,word_C42E,2,12,600..800,reste 12 o
+1442,0xE1E30,584,0xC42E,word_C42E,16,68,725..2650,reste 516 o
+1444,0xE130E,162,,,,,,pas d en-tete 1-D
+1446,0xE2078,162,,,,,,pas d en-tete 1-D
+1448,0xE211A,162,,,,,,pas d en-tete 1-D
+144A,0xE13B0,22,,,,,,pas d en-tete 1-D
+144C,0xE13C6,22,,,,,,pas d en-tete 1-D
+144E,0xE13DC,22,,,,,,pas d en-tete 1-D
+1450,0xE13F2,2,,,,,,pas d en-tete 1-D
+1452,0xE13F4,2,,,,,,pas d en-tete 1-D
+1454,0xE21BC,34,,,,,,pas d en-tete 1-D
+1456,0xE21DE,12,,,,,,pas d en-tete 1-D
+1458,0xE21EA,8,,,,,,pas d en-tete 1-D
+145A,0xE13F6,2618,,,,,,pas d en-tete 1-D
+145C,0xE21F2,8,,,,,,pas d en-tete 1-D
+145E,0xE21FA,6,,,,,,pas d en-tete 1-D
+1460,0xE2200,8,,,,,,pas d en-tete 1-D
+1462,0xE2208,18,,,,,,pas d en-tete 1-D
+1464,0xE221A,30,,,,,,pas d en-tete 1-D
+1466,0xE2238,8,,,,,,pas d en-tete 1-D
+1468,0xE2240,10,,,,,,pas d en-tete 1-D
+146A,0xE224A,2,,,,,,pas d en-tete 1-D
+146C,0xE224C,2,,,,,,pas d en-tete 1-D
+146E,0xE224E,12,,,,,,pas d en-tete 1-D
+1470,0xE225A,18,,,,,,pas d en-tete 1-D
+1472,0xE226C,2,,,,,,pas d en-tete 1-D
+1474,0xE226E,34,,,,,,pas d en-tete 1-D
+1476,0xE2290,2,,,,,,pas d en-tete 1-D
+1478,0xE2292,30,,,,,,pas d en-tete 1-D
+147A,0xE22B0,2,,,,,,pas d en-tete 1-D
+147C,0xE22B2,24,0xC42E,word_C42E,2,12,0..400,reste 12 o
+147E,0xE22CA,24,,,,,,pas d en-tete 1-D
+1480,0xE22E2,18,,,,,,pas d en-tete 1-D
+1482,0xE22F4,24,0xC42E,word_C42E,2,12,0..1000,reste 12 o
+1484,0xE230C,24,0xC42E,word_C42E,2,12,0..400,reste 12 o
+1486,0xE2324,6,,,,,,pas d en-tete 1-D
+1488,0xE232A,8,,,,,,pas d en-tete 1-D
+148A,0xE2332,16,,,,,,pas d en-tete 1-D
+148C,0xE2342,6,,,,,,pas d en-tete 1-D
+148E,0xE2348,34,,,,,,pas d en-tete 1-D
+1490,0xE236A,8,,,,,,pas d en-tete 1-D
+1492,0xE2372,32,,,,,,pas d en-tete 1-D
+1494,0xE2392,12,,,,,,pas d en-tete 1-D
+1496,0xE239E,22,,,,,,pas d en-tete 1-D
+1498,0xE23B4,720,0xC7C2,word_C7C2,16,68,1190..14000,reste 652 o
+149A,0xE2684,12,,,,,,pas d en-tete 1-D
+149C,0xE2690,20,,,,,,pas d en-tete 1-D
+149E,0xE26A4,32,,,,,,pas d en-tete 1-D
+14A0,0xE26C4,100,,,,,,pas d en-tete 1-D
+14A2,0xE2728,14,,,,,,pas d en-tete 1-D
+14A4,0xE2736,6,,,,,,pas d en-tete 1-D
+14A6,0xE273C,32,,,,,,pas d en-tete 1-D
+14A8,0xE275C,6,,,,,,pas d en-tete 1-D
+14AA,0xE2762,18,,,,,,pas d en-tete 1-D
+14AC,0xE2774,10,,,,,,pas d en-tete 1-D
+14AE,0xE277E,10,,,,,,pas d en-tete 1-D
+14B0,0xE2788,46,,,,,,pas d en-tete 1-D
+14B2,0xE27B6,12,,,,,,pas d en-tete 1-D
+14B4,0xE27C2,18,,,,,,pas d en-tete 1-D
+14B6,0xE27D4,2,,,,,,pas d en-tete 1-D
+14B8,0xE27D6,6,,,,,,pas d en-tete 1-D
+14BA,0xE27DC,10,,,,,,pas d en-tete 1-D
+14BC,0xE27E6,10,,,,,,pas d en-tete 1-D
+14BE,0xE27F0,10,,,,,,pas d en-tete 1-D
+14C0,0xE27FA,10,,,,,,pas d en-tete 1-D
+14C2,0xE2804,10,,,,,,pas d en-tete 1-D
+14C4,0xE280E,8,,,,,,pas d en-tete 1-D
+14C6,0xE2816,512,,,,,,pas d en-tete 1-D
+14C8,0xE2A16,24,0xC77A,word_C77A,5,24,6667..28333,TAILLE EXACTE
+14CA,0xE2A2E,150,0xC7C2,word_C7C2,8,36,2000..13000,reste 114 o
+14CC,0xE2AC4,24,0xC77A,word_C77A,5,24,8333..31667,TAILLE EXACTE
+14CE,0xE2ADC,134,0xC42E,word_C42E,7,32,750..5000,reste 102 o
+14D0,0xE2B62,504,,,,,,pas d en-tete 1-D
+14D2,0xE2D5A,504,,,,,,pas d en-tete 1-D
+14D4,0xE2F52,24,0xC3D2,word_C3D2,5,24,2901..3731,TAILLE EXACTE
+14D6,0xE2F6A,32,,,,,,pas d en-tete 1-D
+14D8,0xE2F8A,40,,,,,,pas d en-tete 1-D
+14DA,0xE2FB2,12,0xD03A,word_D03A,2,12,485..970,TAILLE EXACTE
+14DC,0xE2FBE,6,,,,,,pas d en-tete 1-D
+14DE,0xE2FC4,6,,,,,,pas d en-tete 1-D
+14E0,0xE2FCA,32,,,,,,pas d en-tete 1-D
+14E2,0xE2FEA,8,,,,,,pas d en-tete 1-D
+14E4,0xE2FF2,2,,,,,,pas d en-tete 1-D
+14E6,0xE2FF4,12,,,,,,pas d en-tete 1-D
+14E8,0xE3000,12,0xD03C,word_D03C,2,12,0..788,TAILLE EXACTE
+14EA,0xE300C,6,,,,,,pas d en-tete 1-D
+14EC,0xE3012,6,,,,,,pas d en-tete 1-D
+14EE,0xE3018,6,,,,,,pas d en-tete 1-D
+14F0,0xE301E,12,,,,,,pas d en-tete 1-D
+14F2,0xE302A,20,0xD044,word_D044,4,20,20..1003,TAILLE EXACTE
+14F4,0xE303E,6,,,,,,pas d en-tete 1-D
+14F6,0xE3044,6,,,,,,pas d en-tete 1-D
+14F8,0xE304A,32,,,,,,pas d en-tete 1-D
+14FA,0xE306A,12,,,,,,pas d en-tete 1-D
+14FC,0xE3076,68,0xD048,word_D048,16,68,32..1023,TAILLE EXACTE
+14FE,0xE30BA,6,,,,,,pas d en-tete 1-D
+1500,0xE30C0,6,,,,,,pas d en-tete 1-D
+1502,0xE30C6,32,,,,,,pas d en-tete 1-D
+1504,0xE30E6,6,,,,,,pas d en-tete 1-D
+1506,0xE30EC,68,0xD04A,word_D04A,16,68,10..991,TAILLE EXACTE
+1508,0xE3130,6,,,,,,pas d en-tete 1-D
+150A,0xE3136,6,,,,,,pas d en-tete 1-D
+150C,0xE313C,32,,,,,,pas d en-tete 1-D
+150E,0xE315C,6,,,,,,pas d en-tete 1-D
+1510,0xE3162,12,,,,,,pas d en-tete 1-D
+1512,0xE316E,12,0xD04C,word_D04C,2,12,51..972,TAILLE EXACTE
+1514,0xE317A,6,,,,,,pas d en-tete 1-D
+1516,0xE3180,6,,,,,,pas d en-tete 1-D
+1518,0xE3186,6,,,,,,pas d en-tete 1-D
+151A,0xE318C,32,,,,,,pas d en-tete 1-D
+151C,0xE31AC,12,,,,,,pas d en-tete 1-D
+151E,0xE31B8,20,0xD052,word_D052,4,20,20..1003,TAILLE EXACTE
+1520,0xE31CC,6,,,,,,pas d en-tete 1-D
+1522,0xE31D2,6,,,,,,pas d en-tete 1-D
+1524,0xE31D8,6,,,,,,pas d en-tete 1-D
+1526,0xE31DE,32,,,,,,pas d en-tete 1-D
+1528,0xE31FE,14,,,,,,pas d en-tete 1-D
+152A,0xE320C,12,,,,,,pas d en-tete 1-D
+152C,0xE3218,12,0xD054,word_D054,2,12,0..1023,TAILLE EXACTE
+152E,0xE3224,6,,,,,,pas d en-tete 1-D
+1530,0xE322A,6,,,,,,pas d en-tete 1-D
+1532,0xE3230,32,,,,,,pas d en-tete 1-D
+1534,0xE3250,12,,,,,,pas d en-tete 1-D
+1536,0xE325C,20,0xD056,word_D056,4,20,102..922,TAILLE EXACTE
+1538,0xE3270,6,,,,,,pas d en-tete 1-D
+153A,0xE3276,6,,,,,,pas d en-tete 1-D
+153C,0xE327C,6,,,,,,pas d en-tete 1-D
+153E,0xE3282,32,,,,,,pas d en-tete 1-D
+1540,0xE32A2,10,,,,,,pas d en-tete 1-D
+1542,0xE32AC,188,0xC42E,word_C42E,6,28,750..3500,reste 160 o
+1544,0xE3368,188,0xC42E,word_C42E,6,28,750..3500,reste 160 o
+1546,0xE3424,6,,,,,,pas d en-tete 1-D
+1548,0xE342A,12,,,,,,pas d en-tete 1-D
+154A,0xE3436,12,,,,,,pas d en-tete 1-D
+154C,0xE3442,2,,,,,,pas d en-tete 1-D
+154E,0xE3444,44,0xD05E,word_D05E,10,44,32..969,TAILLE EXACTE
+1550,0xE3470,6,,,,,,pas d en-tete 1-D
+1552,0xE3476,6,,,,,,pas d en-tete 1-D
+1554,0xE347C,32,,,,,,pas d en-tete 1-D
+1556,0xE349C,12,,,,,,pas d en-tete 1-D
+1558,0xE34A8,20,0xD060,word_D060,4,20,20..1023,TAILLE EXACTE
+155A,0xE34BC,6,,,,,,pas d en-tete 1-D
+155C,0xE34C2,6,,,,,,pas d en-tete 1-D
+155E,0xE34C8,6,,,,,,pas d en-tete 1-D
+1560,0xE34CE,28,0xC42E,word_C42E,6,28,0..5000,TAILLE EXACTE
+1562,0xE34EA,12,,,,,,pas d en-tete 1-D
+1564,0xE34F6,52,0xD066,word_D066,12,52,192..1064,TAILLE EXACTE
+1566,0xE352A,6,,,,,,pas d en-tete 1-D
+1568,0xE3530,6,,,,,,pas d en-tete 1-D
+156A,0xE3536,6,,,,,,pas d en-tete 1-D
+156C,0xE353C,12,,,,,,pas d en-tete 1-D
+156E,0xE3548,68,0xD06C,word_D06C,16,68,40..962,TAILLE EXACTE
+1570,0xE358C,6,,,,,,pas d en-tete 1-D
+1572,0xE3592,6,,,,,,pas d en-tete 1-D
+1574,0xE3598,32,,,,,,pas d en-tete 1-D
+1576,0xE35B8,12,,,,,,pas d en-tete 1-D
+1578,0xE35C4,12,0xD06E,word_D06E,2,12,59..328,TAILLE EXACTE
+157A,0xE35D0,6,,,,,,pas d en-tete 1-D
+157C,0xE35D6,6,,,,,,pas d en-tete 1-D
+157E,0xE35DC,6,,,,,,pas d en-tete 1-D
+1580,0xE35E2,6,,,,,,pas d en-tete 1-D
+1582,0xE35E8,6,,,,,,pas d en-tete 1-D
+1584,0xE35EE,6,,,,,,pas d en-tete 1-D
+1586,0xE35F4,6,,,,,,pas d en-tete 1-D
+1588,0xE35FA,32,,,,,,pas d en-tete 1-D
+158A,0xE361A,32,,,,,,pas d en-tete 1-D
+158C,0xE363A,12,,,,,,pas d en-tete 1-D
+158E,0xE3646,12,0xD070,word_D070,2,12,102..691,TAILLE EXACTE
+1590,0xE3652,6,,,,,,pas d en-tete 1-D
+1592,0xE3658,6,,,,,,pas d en-tete 1-D
+1594,0xE365E,6,,,,,,pas d en-tete 1-D
+1596,0xE3664,32,,,,,,pas d en-tete 1-D
+1598,0xE3684,4,,,,,,pas d en-tete 1-D
+159A,0xE3688,12,,,,,,pas d en-tete 1-D
+159C,0xE3694,12,0xD072,word_D072,2,12,2..4,TAILLE EXACTE
+159E,0xE36A0,6,,,,,,pas d en-tete 1-D
+15A0,0xE36A6,6,,,,,,pas d en-tete 1-D
+15A2,0xE36AC,32,,,,,,pas d en-tete 1-D
+15A4,0xE36CC,12,,,,,,pas d en-tete 1-D
+15A6,0xE36D8,28,0xD07C,word_D07C,6,28,0..1023,TAILLE EXACTE
+15A8,0xE36F4,12,,,,,,pas d en-tete 1-D
+15AA,0xE3700,28,0xD07E,word_D07E,6,28,0..1023,TAILLE EXACTE
+15AC,0xE371C,6,,,,,,pas d en-tete 1-D
+15AE,0xE3722,6,,,,,,pas d en-tete 1-D
+15B0,0xE3728,6,,,,,,pas d en-tete 1-D
+15B2,0xE372E,6,,,,,,pas d en-tete 1-D
+15B4,0xE3734,32,,,,,,pas d en-tete 1-D
+15B6,0xE3754,32,,,,,,pas d en-tete 1-D
+15B8,0xE3774,12,,,,,,pas d en-tete 1-D
+15BA,0xE3780,12,0xD080,word_D080,2,12,2..4,TAILLE EXACTE
+15BC,0xE378C,6,,,,,,pas d en-tete 1-D
+15BE,0xE3792,6,,,,,,pas d en-tete 1-D
+15C0,0xE3798,32,,,,,,pas d en-tete 1-D
+15C2,0xE37B8,12,,,,,,pas d en-tete 1-D
+15C4,0xE37C4,12,0xD082,word_D082,2,12,2..4,TAILLE EXACTE
+15C6,0xE37D0,6,,,,,,pas d en-tete 1-D
+15C8,0xE37D6,6,,,,,,pas d en-tete 1-D
+15CA,0xE37DC,32,,,,,,pas d en-tete 1-D
+15CC,0xE37FC,12,,,,,,pas d en-tete 1-D
+15CE,0xE3808,12,0xC3AA,word_C3AA,2,12,57..340,TAILLE EXACTE
+15D0,0xE3814,6,,,,,,pas d en-tete 1-D
+15D2,0xE381A,6,,,,,,pas d en-tete 1-D
+15D4,0xE3820,20,0xC3D2,word_C3D2,4,20,2431..3031,TAILLE EXACTE
+15D6,0xE3834,14,,,,,,pas d en-tete 1-D
+15D8,0xE3842,100,0xD084,word_D084,24,100,42..1002,TAILLE EXACTE
+15DA,0xE38A6,6,,,,,,pas d en-tete 1-D
+15DC,0xE38AC,6,,,,,,pas d en-tete 1-D
+15DE,0xE38B2,6,,,,,,pas d en-tete 1-D
+15E0,0xE38B8,32,,,,,,pas d en-tete 1-D
+15E2,0xE38D8,48,0xC42E,word_C42E,2,12,1000..2000,reste 36 o
+15E4,0xE3908,104,0xC42E,word_C42E,6,28,1000..2500,reste 76 o
+15E6,0xE3970,28,0xC42E,word_C42E,6,28,1500..4000,TAILLE EXACTE
+15E8,0xE398C,28,0xC42E,word_C42E,6,28,1500..4000,TAILLE EXACTE
+15EA,0xE39A8,24,0xC612,word_C612,2,12,700..850,reste 12 o
+15EC,0xE39C0,24,0xC3BA,word_C3BA,2,12,2531..3331,reste 12 o
+15EE,0xE39D8,248,0xD094,word_D094,10,44,2731..4051,reste 204 o
+15F0,0xE3AD0,10,,,,,,pas d en-tete 1-D
+15F2,0xE3ADA,6,,,,,,pas d en-tete 1-D
+15F4,0xE3AE0,6,,,,,,pas d en-tete 1-D
+15F6,0xE3AE6,6,,,,,,pas d en-tete 1-D
+15F8,0xE3AEC,32,,,,,,pas d en-tete 1-D
+15FA,0xE3B0C,32,,,,,,pas d en-tete 1-D
+15FC,0xE3B2C,104,0xC42E,word_C42E,6,28,1000..4000,reste 76 o
+15FE,0xE3B94,28,,,,,,pas d en-tete 1-D
+1600,0xE3BB0,16,,,,,,pas d en-tete 1-D
+1602,0xE3BC0,16,,,,,,pas d en-tete 1-D
+1604,0xE3BD0,20,,,,,,pas d en-tete 1-D
+1606,0xE3BE4,128,,,,,,pas d en-tete 1-D
+1608,0xE3C64,12,0xC60A,word_C60A,2,12,800..900,TAILLE EXACTE
+160A,0xE3C70,128,,,,,,pas d en-tete 1-D
+160C,0xE3CF0,12,0xC3D2,word_C3D2,2,12,2531..2731,TAILLE EXACTE
+160E,0xE3CFC,22,,,,,,pas d en-tete 1-D
+1610,0xE3D12,4,,,,,,pas d en-tete 1-D
+1612,0xE3D16,8,,,,,,pas d en-tete 1-D
+1614,0xE3D1E,10,,,,,,pas d en-tete 1-D
+1616,0xE3D28,10,,,,,,pas d en-tete 1-D
+1618,0xE3D32,16,,,,,,pas d en-tete 1-D
+161A,0xE3D42,66,,,,,,pas d en-tete 1-D
+161C,0xE3D84,6,,,,,,pas d en-tete 1-D
+161E,0xE3D8A,6,,,,,,pas d en-tete 1-D
+1620,0xE3D90,6,,,,,,pas d en-tete 1-D
+1622,0xE3D96,32,,,,,,pas d en-tete 1-D
+1624,0xE3DB6,128,,,,,,pas d en-tete 1-D
+1626,0xE3E36,6,,,,,,pas d en-tete 1-D
+1628,0xE3E3C,20,0xC38E,word_C38E,4,20,850..960,TAILLE EXACTE
+162A,0xE3E50,20,0xC3BA,word_C3BA,4,20,2681..3231,TAILLE EXACTE
+162C,0xE3E64,28,0xC42E,word_C42E,6,28,800..2520,TAILLE EXACTE
+162E,0xE3E80,28,0xC42E,word_C42E,6,28,800..2520,TAILLE EXACTE
+1630,0xE3E9C,32,,,,,,pas d en-tete 1-D
+1632,0xE3EBC,32,,,,,,pas d en-tete 1-D
+1634,0xE3EDC,6,,,,,,pas d en-tete 1-D
+1636,0xE3EE2,18,,,,,,pas d en-tete 1-D
+1638,0xE3EF4,64,0xC60A,word_C60A,15,64,743..1100,TAILLE EXACTE
+163A,0xE3F34,10,,,,,,pas d en-tete 1-D
+163C,0xE3F3E,12,0xC4CE,word_C4CE,2,12,0..3000,TAILLE EXACTE
+163E,0xE3F4A,18,,,,,,pas d en-tete 1-D
+1640,0xE3F5C,24,0xC3DA,word_C3DA,5,24,6667..28333,TAILLE EXACTE
+1642,0xE3F74,104,0xC42E,word_C42E,6,28,800..2650,reste 76 o
+1644,0xE3FDC,10,,,,,,pas d en-tete 1-D
+1646,0xE3FE6,10,,,,,,pas d en-tete 1-D
+1648,0xE3FF0,2,,,,,,pas d en-tete 1-D
+164A,0xE3FF2,6,,,,,,pas d en-tete 1-D
+164C,0xE3FF8,2,,,,,,pas d en-tete 1-D
+164E,0xE4000,10,,,,,,pas d en-tete 1-D
+1650,0xE3FFA,2,,,,,,pas d en-tete 1-D
+1652,0xE3FFC,2,,,,,,pas d en-tete 1-D
+1654,0xE400A,14,,,,,,pas d en-tete 1-D
+1656,0xE4018,10,,,,,,pas d en-tete 1-D
+1658,0xE4022,24,,,,,,pas d en-tete 1-D
+165A,0xE403A,16,,,,,,pas d en-tete 1-D
+165C,0xE404A,8,,,,,,pas d en-tete 1-D
+165E,0xE4052,4,,,,,,pas d en-tete 1-D
+1660,0xE4056,4,,,,,,pas d en-tete 1-D
+1662,0xE405A,4,,,,,,pas d en-tete 1-D
+1664,0xE405E,4,,,,,,pas d en-tete 1-D
+1666,0xE4062,4,,,,,,pas d en-tete 1-D
+1668,0xE4066,4,,,,,,pas d en-tete 1-D
+166A,0xE406A,4,,,,,,pas d en-tete 1-D
+166C,0xE406E,4,,,,,,pas d en-tete 1-D
+166E,0xE4072,4,,,,,,pas d en-tete 1-D
+1670,0xE4076,4,,,,,,pas d en-tete 1-D
+1672,0xE407A,4,,,,,,pas d en-tete 1-D
+1674,0xE407E,4,,,,,,pas d en-tete 1-D
+1676,0xE4082,4,,,,,,pas d en-tete 1-D
+1678,0xE4086,6,,,,,,pas d en-tete 1-D
+167A,0xE408C,6,,,,,,pas d en-tete 1-D
+167C,0xE4092,6,,,,,,pas d en-tete 1-D
+167E,0xE4098,6,,,,,,pas d en-tete 1-D
+1680,0xE409E,6,,,,,,pas d en-tete 1-D
+1682,0xE40A4,6,,,,,,pas d en-tete 1-D
+1684,0xE40AA,6,,,,,,pas d en-tete 1-D
+1686,0xE40B0,6,,,,,,pas d en-tete 1-D
+1688,0xE40B6,32,,,,,,pas d en-tete 1-D
+168A,0xE40D6,8,,,,,,pas d en-tete 1-D
+168C,0xE40DE,4,,,,,,pas d en-tete 1-D
+168E,0xE40E2,6,,,,,,pas d en-tete 1-D
+1690,0xE40E8,6,,,,,,pas d en-tete 1-D
+1692,0xE40EE,6,,,,,,pas d en-tete 1-D
+1694,0xE40F4,6,,,,,,pas d en-tete 1-D
+1696,0xE40FA,6,,,,,,pas d en-tete 1-D
+1698,0xE4100,6,,,,,,pas d en-tete 1-D
+169A,0xE4106,6,,,,,,pas d en-tete 1-D
+169C,0xE410C,6,,,,,,pas d en-tete 1-D
+169E,0xE4112,6,,,,,,pas d en-tete 1-D
+16A0,0xE4118,6,,,,,,pas d en-tete 1-D
+16A2,0xE411E,6,,,,,,pas d en-tete 1-D
+16A4,0xE4124,6,,,,,,pas d en-tete 1-D
+16A6,0xE412A,6,,,,,,pas d en-tete 1-D
+16A8,0xE4130,6,,,,,,pas d en-tete 1-D
+16AA,0xE4136,6,,,,,,pas d en-tete 1-D
+16AC,0xE413C,6,,,,,,pas d en-tete 1-D
+16AE,0xE4142,6,,,,,,pas d en-tete 1-D
+16B0,0xE4148,6,,,,,,pas d en-tete 1-D
+16B2,0xE414E,6,,,,,,pas d en-tete 1-D
+16B4,0xE4154,6,,,,,,pas d en-tete 1-D
+16B6,0xE415A,32,,,,,,pas d en-tete 1-D
+16B8,0xE417A,32,,,,,,pas d en-tete 1-D
+16BA,0xE3FFE,2,,,,,,pas d en-tete 1-D
+16BC,0xE419A,2,,,,,,pas d en-tete 1-D
+16BE,0xE419C,6,,,,,,pas d en-tete 1-D
+16C0,0xE41A2,6,,,,,,pas d en-tete 1-D
+16C2,0xE41A8,6,,,,,,pas d en-tete 1-D
+16C4,0xE41AE,6,,,,,,pas d en-tete 1-D
+16C6,0xE41B4,6,,,,,,pas d en-tete 1-D
+16C8,0xE41BA,6,,,,,,pas d en-tete 1-D
+16CA,0xE41C0,6,,,,,,pas d en-tete 1-D
+16CC,0xE41C6,6,,,,,,pas d en-tete 1-D
+16CE,0xE41CC,6,,,,,,pas d en-tete 1-D
+16D0,0xE41D2,6,,,,,,pas d en-tete 1-D
+16D2,0xE41D8,6,,,,,,pas d en-tete 1-D
+16D4,0xE41DE,6,,,,,,pas d en-tete 1-D
+16D6,0xE41E4,6,,,,,,pas d en-tete 1-D
+16D8,0xE41EA,6,,,,,,pas d en-tete 1-D
+16DA,0xE41F0,6,,,,,,pas d en-tete 1-D
+16DC,0xE41F6,6,,,,,,pas d en-tete 1-D
+16DE,0xE41FC,6,,,,,,pas d en-tete 1-D
+16E0,0xE4202,6,,,,,,pas d en-tete 1-D
+16E2,0xE4208,6,,,,,,pas d en-tete 1-D
+16E4,0xE420E,6,,,,,,pas d en-tete 1-D
+16E6,0xE4214,6,,,,,,pas d en-tete 1-D
+16E8,0xE421A,6,,,,,,pas d en-tete 1-D
+16EA,0xE4220,6,,,,,,pas d en-tete 1-D
+16EC,0xE4226,6,,,,,,pas d en-tete 1-D
+16EE,0xE422C,32,,,,,,pas d en-tete 1-D
+16F0,0xE424C,8,,,,,,pas d en-tete 1-D
+16F2,0xE4254,6,,,,,,pas d en-tete 1-D
+16F4,0xE425A,32,,,,,,pas d en-tete 1-D
+16F6,0xE427A,4,,,,,,pas d en-tete 1-D
+16F8,0xE427E,14,,,,,,pas d en-tete 1-D
+16FA,0xE428C,10,,,,,,pas d en-tete 1-D
+16FC,0xE4296,8,,,,,,pas d en-tete 1-D
+16FE,0xE429E,2,,,,,,pas d en-tete 1-D
+1700,0xE42A0,2,,,,,,pas d en-tete 1-D
+1702,0xE42A2,6,,,,,,pas d en-tete 1-D
+1704,0xE42A8,2,,,,,,pas d en-tete 1-D
+1706,0xE42AA,8,,,,,,pas d en-tete 1-D
+1708,0xE42B2,22,,,,,,pas d en-tete 1-D
+170A,0xE42C8,6,,,,,,pas d en-tete 1-D
+170C,0xE42CE,6,,,,,,pas d en-tete 1-D
+170E,0xE42D4,20,0xD17C,word_D17C,4,20,0..180,TAILLE EXACTE
+1710,0xE42E8,4,,,,,,pas d en-tete 1-D
+1712,0xE42EC,6,,,,,,pas d en-tete 1-D
+1714,0xE42F2,6,,,,,,pas d en-tete 1-D
+1716,0xE42F8,6,,,,,,pas d en-tete 1-D
+1718,0xE42FE,2,,,,,,pas d en-tete 1-D
+171A,0xE4300,6,,,,,,pas d en-tete 1-D
+171C,0xE4306,6,,,,,,pas d en-tete 1-D
+171E,0xE430C,6,,,,,,pas d en-tete 1-D
+1720,0xE4312,6,,,,,,pas d en-tete 1-D
+1722,0xE4318,12,,,,,,pas d en-tete 1-D
+1724,0xE4324,2,,,,,,pas d en-tete 1-D
+1726,0xE4326,2,,,,,,pas d en-tete 1-D
+1728,0xE4328,4,,,,,,pas d en-tete 1-D
+172A,0xE432C,10,,,,,,pas d en-tete 1-D
+172C,0xE4336,32,,,,,,pas d en-tete 1-D
+172E,0xE4356,168,0xC42E,word_C42E,8,36,500..6000,reste 132 o
+1730,0xE43FE,6,,,,,,pas d en-tete 1-D
+1732,0xE4404,6,,,,,,pas d en-tete 1-D
+1734,0xE440A,6,,,,,,pas d en-tete 1-D
+1736,0xE4410,6,,,,,,pas d en-tete 1-D
+1738,0xE4416,6,,,,,,pas d en-tete 1-D
+173A,0xE441C,6,,,,,,pas d en-tete 1-D
+173C,0xE4422,6,,,,,,pas d en-tete 1-D
+173E,0xE4428,6,,,,,,pas d en-tete 1-D
+1740,0xE442E,6,,,,,,pas d en-tete 1-D
+1742,0xE4434,6,,,,,,pas d en-tete 1-D
+1744,0xE443A,6,,,,,,pas d en-tete 1-D
+1746,0xE4440,6,,,,,,pas d en-tete 1-D
+1748,0xE4446,6,,,,,,pas d en-tete 1-D
+174A,0xE444C,6,,,,,,pas d en-tete 1-D
+174C,0xE4452,6,,,,,,pas d en-tete 1-D
+174E,0xE4458,6,,,,,,pas d en-tete 1-D
+1750,0xE445E,6,,,,,,pas d en-tete 1-D
+1752,0xE4464,6,,,,,,pas d en-tete 1-D
+1754,0xE446A,6,,,,,,pas d en-tete 1-D
+1756,0xE4470,6,,,,,,pas d en-tete 1-D
+1758,0xE4476,6,,,,,,pas d en-tete 1-D
+175A,0xE447C,6,,,,,,pas d en-tete 1-D
+175C,0xE4482,6,,,,,,pas d en-tete 1-D
+175E,0xE4488,6,,,,,,pas d en-tete 1-D
+1760,0xE448E,6,,,,,,pas d en-tete 1-D
+1762,0xE4494,6,,,,,,pas d en-tete 1-D
+1764,0xE449A,6,,,,,,pas d en-tete 1-D
+1766,0xE44A0,6,,,,,,pas d en-tete 1-D
+1768,0xE44A6,6,,,,,,pas d en-tete 1-D
+176A,0xE44AC,6,,,,,,pas d en-tete 1-D
+176C,0xE44B2,6,,,,,,pas d en-tete 1-D
+176E,0xE44B8,6,,,,,,pas d en-tete 1-D
+1770,0xE44BE,6,,,,,,pas d en-tete 1-D
+1772,0xE44C4,6,,,,,,pas d en-tete 1-D
+1774,0xE44CA,6,,,,,,pas d en-tete 1-D
+1776,0xE44D0,6,,,,,,pas d en-tete 1-D
+1778,0xE44D6,6,,,,,,pas d en-tete 1-D
+177A,0xE44DC,6,,,,,,pas d en-tete 1-D
+177C,0xE44E2,6,,,,,,pas d en-tete 1-D
+177E,0xE44E8,6,,,,,,pas d en-tete 1-D
+1780,0xE44EE,6,,,,,,pas d en-tete 1-D
+1782,0xE44F4,6,,,,,,pas d en-tete 1-D
+1784,0xE44FA,6,,,,,,pas d en-tete 1-D
+1786,0xE4500,6,,,,,,pas d en-tete 1-D
+1788,0xE4506,6,,,,,,pas d en-tete 1-D
+178A,0xE450C,6,,,,,,pas d en-tete 1-D
+178C,0xE4512,6,,,,,,pas d en-tete 1-D
+178E,0xE4518,6,,,,,,pas d en-tete 1-D
+1790,0xE451E,6,,,,,,pas d en-tete 1-D
+1792,0xE4524,6,,,,,,pas d en-tete 1-D
+1794,0xE452A,6,,,,,,pas d en-tete 1-D
+1796,0xE4530,6,,,,,,pas d en-tete 1-D
+1798,0xE4536,6,,,,,,pas d en-tete 1-D
+179A,0xE453C,6,,,,,,pas d en-tete 1-D
+179C,0xE4542,6,,,,,,pas d en-tete 1-D
+179E,0xE4548,6,,,,,,pas d en-tete 1-D
+17A0,0xE454E,6,,,,,,pas d en-tete 1-D
+17A2,0xE4554,6,,,,,,pas d en-tete 1-D
+17A4,0xE455A,6,,,,,,pas d en-tete 1-D
+17A6,0xE4560,6,,,,,,pas d en-tete 1-D
+17A8,0xE4566,6,,,,,,pas d en-tete 1-D
+17AA,0xE456C,6,,,,,,pas d en-tete 1-D
+17AC,0xE4572,6,,,,,,pas d en-tete 1-D
+17AE,0xE4578,6,,,,,,pas d en-tete 1-D
+17B0,0xE457E,6,,,,,,pas d en-tete 1-D
+17B2,0xE4584,6,,,,,,pas d en-tete 1-D
+17B4,0xE458A,6,,,,,,pas d en-tete 1-D
+17B6,0xE4590,6,,,,,,pas d en-tete 1-D
+17B8,0xE4596,6,,,,,,pas d en-tete 1-D
+17BA,0xE459C,6,,,,,,pas d en-tete 1-D
+17BC,0xE45A2,6,,,,,,pas d en-tete 1-D
+17BE,0xE45A8,6,,,,,,pas d en-tete 1-D
+17C0,0xE45AE,6,,,,,,pas d en-tete 1-D
+17C2,0xE45B4,6,,,,,,pas d en-tete 1-D
+17C4,0xE45BA,32,,,,,,pas d en-tete 1-D
+17C6,0xE45DA,32,,,,,,pas d en-tete 1-D
+17C8,0xE45FA,32,,,,,,pas d en-tete 1-D
+17CA,0xE461A,32,,,,,,pas d en-tete 1-D
+17CC,0xE463A,32,,,,,,pas d en-tete 1-D
+17CE,0xE465A,32,,,,,,pas d en-tete 1-D
+17D0,0xE467A,32,,,,,,pas d en-tete 1-D
+17D2,0xE469A,32,,,,,,pas d en-tete 1-D
+17D4,0xE46BA,32,,,,,,pas d en-tete 1-D
+17D6,0xE46DA,32,,,,,,pas d en-tete 1-D
+17D8,0xE46FA,32,,,,,,pas d en-tete 1-D
+17DA,0xE471A,32,,,,,,pas d en-tete 1-D
+17DC,0xE473A,32,,,,,,pas d en-tete 1-D
+17DE,0xE475A,32,,,,,,pas d en-tete 1-D
+17E0,0xE477A,32,,,,,,pas d en-tete 1-D
+17E2,0xE479A,32,,,,,,pas d en-tete 1-D
+17E4,0xE47BA,32,,,,,,pas d en-tete 1-D
+17E6,0xE47DA,32,,,,,,pas d en-tete 1-D
+17E8,0xE47FA,32,,,,,,pas d en-tete 1-D
+17EA,0xE481A,32,,,,,,pas d en-tete 1-D
+17EC,0xE483A,32,,,,,,pas d en-tete 1-D
+17EE,0xE485A,32,,,,,,pas d en-tete 1-D
+17F0,0xE487A,32,,,,,,pas d en-tete 1-D
+17F2,0xE489A,32,,,,,,pas d en-tete 1-D
+17F4,0xE48BA,4,,,,,,pas d en-tete 1-D
+17F6,0xE48BE,2,,,,,,pas d en-tete 1-D
+17F8,0xE48C0,4,,,,,,pas d en-tete 1-D
+17FA,0xE48C4,10,,,,,,pas d en-tete 1-D
+17FC,0xE48CE,10,,,,,,pas d en-tete 1-D
+17FE,0xE48D8,4,,,,,,pas d en-tete 1-D
+1800,0xE48DC,12,0xC7CA,word_C7CA,2,12,500..1000,TAILLE EXACTE
+1802,0xE48E8,10,,,,,,pas d en-tete 1-D
+1804,0xE48F2,2,,,,,,pas d en-tete 1-D
+1806,0xE48F4,2,,,,,,pas d en-tete 1-D
+1808,0xE48F6,10,,,,,,pas d en-tete 1-D
+180A,0xE4900,44,0xC4D8,word_C4D8,10,44,400..5000,TAILLE EXACTE
+180C,0xE492C,6,,,,,,pas d en-tete 1-D
+180E,0xE4932,6,,,,,,pas d en-tete 1-D
+1810,0xE4938,12,,,,,,pas d en-tete 1-D
+1812,0xE4944,16,,,,,,pas d en-tete 1-D
+1814,0xE4954,12,0xC337,byte_C337,2,12,0..250,TAILLE EXACTE
+1816,0xE4960,2,,,,,,pas d en-tete 1-D
+1818,0xE4962,6,,,,,,pas d en-tete 1-D
+181A,0xE4968,6,,,,,,pas d en-tete 1-D
+181C,0xE496E,6,,,,,,pas d en-tete 1-D
+181E,0xE4974,6,,,,,,pas d en-tete 1-D
+1820,0xE497A,6,,,,,,pas d en-tete 1-D
+1822,0xE4980,32,,,,,,pas d en-tete 1-D
+1824,0xE49A0,32,,,,,,pas d en-tete 1-D
+1826,0xE49C0,6,,,,,,pas d en-tete 1-D
+1828,0xE49C6,6,,,,,,pas d en-tete 1-D
+182A,0xE49CC,6,,,,,,pas d en-tete 1-D
+182C,0xE49D2,6,,,,,,pas d en-tete 1-D
+182E,0xE49D8,32,,,,,,pas d en-tete 1-D
+1830,0xE49F8,32,,,,,,pas d en-tete 1-D
+1832,0xE4A18,6,,,,,,pas d en-tete 1-D
+1834,0xE4A1E,6,,,,,,pas d en-tete 1-D
+1836,0xE4A24,32,,,,,,pas d en-tete 1-D
+1838,0xE4A44,6,,,,,,pas d en-tete 1-D
+183A,0xE4A4A,6,,,,,,pas d en-tete 1-D
+183C,0xE4A50,32,,,,,,pas d en-tete 1-D
+183E,0xE4A70,32,,,,,,pas d en-tete 1-D
+1840,0xE4A90,6,,,,,,pas d en-tete 1-D
+1842,0xE4A96,6,,,,,,pas d en-tete 1-D
+1844,0xE4A9C,32,,,,,,pas d en-tete 1-D
+1846,0xE4ABC,6,,,,,,pas d en-tete 1-D
+1848,0xE4AC2,6,,,,,,pas d en-tete 1-D
+184A,0xE4AC8,32,,,,,,pas d en-tete 1-D
+184C,0xE4AE8,6,,,,,,pas d en-tete 1-D
+184E,0xE4AEE,6,,,,,,pas d en-tete 1-D
+1850,0xE4AF4,32,,,,,,pas d en-tete 1-D
+1852,0xE4B14,8,,,,,,pas d en-tete 1-D
+1854,0xE4B1C,10,,,,,,pas d en-tete 1-D
+1856,0xE4B26,32,,,,,,pas d en-tete 1-D
+1858,0xE4B46,12,,,,,,pas d en-tete 1-D
+185A,0xE4B52,30,,,,,,pas d en-tete 1-D
+185C,0xE4B70,2,,,,,,pas d en-tete 1-D
+185E,0xE4B72,6,,,,,,pas d en-tete 1-D
+1860,0xE4B78,6,,,,,,pas d en-tete 1-D
+1862,0xE4B7E,6,,,,,,pas d en-tete 1-D
+1864,0xE4B84,2,,,,,,pas d en-tete 1-D
+1866,0xE4B86,2,,,,,,pas d en-tete 1-D
+1868,0xE4B88,6,,,,,,pas d en-tete 1-D
+186A,0xE4B8E,12,,,,,,pas d en-tete 1-D
+186C,0xE4B9A,68,0xC3F8,word_C3F8,16,68,32..1013,TAILLE EXACTE
+186E,0xE4BDE,6,,,,,,pas d en-tete 1-D
+1870,0xE4BE4,6,,,,,,pas d en-tete 1-D
+1872,0xE4BEA,6,,,,,,pas d en-tete 1-D
+1874,0xE4BF0,16,,,,,,pas d en-tete 1-D
+1876,0xE4C00,6,,,,,,pas d en-tete 1-D
+1878,0xE4C06,6,,,,,,pas d en-tete 1-D
+187A,0xE4C0C,2,,,,,,pas d en-tete 1-D
+187C,0xE4C0E,6,,,,,,pas d en-tete 1-D
+187E,0xE4C14,6,,,,,,pas d en-tete 1-D
+1880,0xE4C1A,6,,,,,,pas d en-tete 1-D
+1882,0xE4C20,6,,,,,,pas d en-tete 1-D
+1884,0xE4C26,6,,,,,,pas d en-tete 1-D
+1886,0xE4C2C,6,,,,,,pas d en-tete 1-D
+1888,0xE4C32,6,,,,,,pas d en-tete 1-D
+188A,0xE4C38,6,,,,,,pas d en-tete 1-D
+188C,0xE4C3E,6,,,,,,pas d en-tete 1-D
+188E,0xE4C44,6,,,,,,pas d en-tete 1-D
+1890,0xE4C4A,32,,,,,,pas d en-tete 1-D
+1892,0xE4C6A,32,,,,,,pas d en-tete 1-D
+1894,0xE4C8A,32,,,,,,pas d en-tete 1-D
+1896,0xE4CAA,2,,,,,,pas d en-tete 1-D
+1898,0xE4CAC,2,,,,,,pas d en-tete 1-D
+189A,0xE4CAE,12,,,,,,pas d en-tete 1-D
+189C,0xE4CBA,18,,,,,,pas d en-tete 1-D
+189E,0xE4CCC,36,0xC5BC,word_C5BC,8,36,-32768..-29408,TAILLE EXACTE
+18A0,0xE4CF0,36,0xC5BC,word_C5BC,8,36,-32768..-29408,TAILLE EXACTE
+18A2,0xE4D14,36,0xD1B6,word_D1B6,8,36,500..11000,TAILLE EXACTE
+18A4,0xE4D38,36,0xD1B6,word_D1B6,8,36,500..11000,TAILLE EXACTE
+18A6,0xE4D5C,36,0xC5A8,word_C5A8,8,36,100..11000,TAILLE EXACTE
+18A8,0xE4D80,28,0xC596,word_C596,6,28,0..3000,TAILLE EXACTE
+18AA,0xE4D9C,36,0xC5A8,word_C5A8,8,36,1300..11000,TAILLE EXACTE
+18AC,0xE4DC0,36,0xC5A8,word_C5A8,8,36,1300..11000,TAILLE EXACTE
+18AE,0xE4DE4,36,0xC5A8,word_C5A8,8,36,500..11000,TAILLE EXACTE
+18B0,0xE4E08,36,0xC5A8,word_C5A8,8,36,500..11000,TAILLE EXACTE
+18B2,0xE4E2C,30,,,,,,pas d en-tete 1-D
+18B4,0xE4E4A,36,0xD1F4,word_D1F4,8,36,0..5000,TAILLE EXACTE
+18B6,0xE4E6E,36,0xC588,word_C588,8,36,2631..3331,TAILLE EXACTE
+18B8,0xE4E92,44,0xC42E,word_C42E,10,44,0..4500,TAILLE EXACTE
+18BA,0xE4EBE,44,0xC42E,word_C42E,10,44,0..4500,TAILLE EXACTE
+18BC,0xE4EEA,44,0xC42E,word_C42E,10,44,0..4500,TAILLE EXACTE
+18BE,0xE4F16,44,0xC42E,word_C42E,10,44,0..4500,TAILLE EXACTE
+18C0,0xE4F42,20,0xC5A4,word_C5A4,4,20,2431..3331,TAILLE EXACTE
+18C2,0xE4F56,78,,,,,,pas d en-tete 1-D
+18C4,0xE4FA4,36,0xC562,word_C562,8,36,0..20000,TAILLE EXACTE
+18C6,0xE4FC8,36,0xC61C,word_C61C,8,36,0..7000,TAILLE EXACTE
+18C8,0xE4FEC,132,0xD1E6,word_D1E6,8,36,0..20000,reste 96 o
+18CA,0xE5070,8,,,,,,pas d en-tete 1-D
+18CC,0xE5078,8,,,,,,pas d en-tete 1-D
+18CE,0xE5080,20,0xD1FE,word_D1FE,4,20,500..6000,TAILLE EXACTE
+18D0,0xE5094,168,0xC42E,word_C42E,8,36,0..5000,reste 132 o
+18D2,0xE513C,168,0xD202,word_D202,8,36,1000..3000,reste 132 o
+18D4,0xE51E4,36,0xC5A4,word_C5A4,8,36,2431..3331,TAILLE EXACTE
+18D6,0xE5208,24,0xD230,word_D230,5,24,2731..2931,TAILLE EXACTE
+18D8,0xE5220,24,0xD232,word_D232,5,24,2531..2931,TAILLE EXACTE
+18DA,0xE5238,24,0xD234,word_D234,5,24,2531..2931,TAILLE EXACTE
+18DC,0xE5250,24,0xD240,word_D240,5,24,-27269..32731 NON MONOTONE,TAILLE EXACTE
+18DE,0xE5268,24,0xD242,word_D242,5,24,-27269..32731 NON MONOTONE,TAILLE EXACTE
+18E0,0xE5280,24,0xD244,word_D244,5,24,-27269..32731 NON MONOTONE,TAILLE EXACTE
+18E2,0xE5298,36,0xD1F4,word_D1F4,8,36,100..3500,TAILLE EXACTE
+18E4,0xE52BC,6,,,,,,pas d en-tete 1-D
+18E6,0xE52C2,2,,,,,,pas d en-tete 1-D
+18E8,0xE52C4,10,,,,,,pas d en-tete 1-D
+18EA,0xE52CE,24,0xC5BC,word_C5BC,5,24,-32768..-29408,TAILLE EXACTE
+18EC,0xE52E6,8,,,,,,pas d en-tete 1-D
+18EE,0xE52EE,38,,,,,,pas d en-tete 1-D
+18F0,0xE5314,2,,,,,,pas d en-tete 1-D
+18F2,0xE5316,58,,,,,,pas d en-tete 1-D
+18F4,0xE5350,24,0xC5FA,word_C5FA,5,24,2331..3031,TAILLE EXACTE
+18F6,0xE5368,32,,,,,,pas d en-tete 1-D
+18F8,0xE5388,100,,,,,,pas d en-tete 1-D
+18FA,0xE53EC,100,,,,,,pas d en-tete 1-D
+18FC,0xE5450,138,0xC42E,word_C42E,10,44,800..3000,reste 94 o
+18FE,0xE54DA,138,0xC42E,word_C42E,10,44,800..3000,reste 94 o
+1900,0xE5564,24,,,,,,pas d en-tete 1-D
+1902,0xE557C,28,,,,,,pas d en-tete 1-D
+1904,0xE5598,42,,,,,,pas d en-tete 1-D
+1906,0xE55C2,32,,,,,,pas d en-tete 1-D
+1908,0xE55E2,32,,,,,,pas d en-tete 1-D
+190A,0xE5602,14,,,,,,pas d en-tete 1-D
+190C,0xE5610,36,,,,,,pas d en-tete 1-D
+190E,0xE5634,384,,,,,,pas d en-tete 1-D
+1910,0xE57B4,384,,,,,,pas d en-tete 1-D
+1912,0xE5934,384,,,,,,pas d en-tete 1-D
+1914,0xE5AB4,384,,,,,,pas d en-tete 1-D
+1916,0xE5C34,384,,,,,,pas d en-tete 1-D
+1918,0xE5DB4,384,,,,,,pas d en-tete 1-D
+191A,0xE5F34,52,0xC42E,word_C42E,12,52,970..3000,TAILLE EXACTE
+191C,0xE5F68,52,0xC42E,word_C42E,12,52,990..3000,TAILLE EXACTE
+191E,0xE5F9C,12,0xC586,word_C586,2,12,5231..8231,TAILLE EXACTE
+1920,0xE5FA8,24,,,,,,pas d en-tete 1-D
+1922,0xE5FC0,12,0xC586,word_C586,2,12,5231..8731,TAILLE EXACTE
+1924,0xE5FCC,24,,,,,,pas d en-tete 1-D
+1926,0xE5FE4,4,,,,,,pas d en-tete 1-D
+1928,0xE5FE8,80,,,,,,pas d en-tete 1-D
+192A,0xE6038,24,0xC60A,word_C60A,5,24,0..1800,TAILLE EXACTE
+192C,0xE6050,22,,,,,,pas d en-tete 1-D
+192E,0xE6066,36,0xC60A,word_C60A,8,36,0..1800,TAILLE EXACTE
+1930,0xE608A,104,0xC42E,word_C42E,6,28,0..5000,reste 76 o
+1932,0xE60F2,104,0xC42E,word_C42E,6,28,0..5000,reste 76 o
+1934,0xE615A,18,,,,,,pas d en-tete 1-D
+1936,0xE616C,18,,,,,,pas d en-tete 1-D
+1938,0xE617E,18,,,,,,pas d en-tete 1-D
+193A,0xE6190,18,,,,,,pas d en-tete 1-D
+193C,0xE61A2,104,0xC42E,word_C42E,6,28,0..5000,reste 76 o
+193E,0xE620A,24,0xC60A,word_C60A,5,24,0..1800,TAILLE EXACTE
+1940,0xE6222,76,0xC42E,word_C42E,4,20,0..3000,reste 56 o
+1942,0xE626E,76,0xC42E,word_C42E,4,20,0..3000,reste 56 o
+1944,0xE62BA,76,0xC42E,word_C42E,4,20,0..3000,reste 56 o
+1946,0xE6306,32,,,,,,pas d en-tete 1-D
+1948,0xE6326,32,,,,,,pas d en-tete 1-D
+194A,0xE6346,28,,,,,,pas d en-tete 1-D
+194C,0xE6362,28,,,,,,pas d en-tete 1-D
+194E,0xE637E,28,,,,,,pas d en-tete 1-D
+1950,0xE639A,36,0xC586,word_C586,8,36,3731..8531,TAILLE EXACTE
+1952,0xE63BE,62,,,,,,pas d en-tete 1-D
+1954,0xE63FC,28,,,,,,pas d en-tete 1-D
+1956,0xE6418,28,,,,,,pas d en-tete 1-D
+1958,0xE6434,32,,,,,,pas d en-tete 1-D
+195A,0xE6454,28,,,,,,pas d en-tete 1-D
+195C,0xE6470,28,,,,,,pas d en-tete 1-D
+195E,0xE648C,28,,,,,,pas d en-tete 1-D
+1960,0xE64A8,28,,,,,,pas d en-tete 1-D
+1962,0xE64C4,6,,,,,,pas d en-tete 1-D
+1964,0xE64CA,6,,,,,,pas d en-tete 1-D
+1966,0xE64D0,6,,,,,,pas d en-tete 1-D
+1968,0xE64D6,6,,,,,,pas d en-tete 1-D
+196A,0xE64DC,6,,,,,,pas d en-tete 1-D
+196C,0xE64E2,32,,,,,,pas d en-tete 1-D
+196E,0xE6502,32,,,,,,pas d en-tete 1-D
+1970,0xE6522,32,,,,,,pas d en-tete 1-D
+1972,0xE6542,56,,,,,,pas d en-tete 1-D
+1974,0xE657A,2,,,,,,pas d en-tete 1-D
+1976,0xE657C,12,0xC58E,word_C58E,2,12,0..1,TAILLE EXACTE
+1978,0xE6588,28,,,,,,pas d en-tete 1-D
+197A,0xE65A4,32,,,,,,pas d en-tete 1-D
+197C,0xE65C4,336,,,,,,pas d en-tete 1-D
+197E,0xE6714,336,,,,,,pas d en-tete 1-D
+1980,0xE6864,26,,,,,,pas d en-tete 1-D
+1982,0xE687E,6,,,,,,pas d en-tete 1-D
+1984,0xE6884,6,,,,,,pas d en-tete 1-D
+1986,0xE688A,6,,,,,,pas d en-tete 1-D
+1988,0xE6890,32,,,,,,pas d en-tete 1-D
+198A,0xE68B0,2,,,,,,pas d en-tete 1-D
+198C,0xE68B2,2,,,,,,pas d en-tete 1-D
+198E,0xE68B4,8,,,,,,pas d en-tete 1-D
+1990,0xE68BC,20,,,,,,pas d en-tete 1-D
+1992,0xE68D0,36,0xC3D2,word_C3D2,8,36,2431..3531,TAILLE EXACTE
+1994,0xE68F4,36,0xC3C2,word_C3C2,2,12,673..678,reste 24 o
+1996,0xE6918,28,0xC42E,word_C42E,6,28,0..2250,TAILLE EXACTE
+1998,0xE6934,18,,,,,,pas d en-tete 1-D
+199A,0xE6946,12,0xC3D2,word_C3D2,2,12,2531..2731,TAILLE EXACTE
+199C,0xE6952,132,0xC3C2,word_C3C2,8,36,255..678,reste 96 o
+199E,0xE69D6,36,0xC3BA,word_C3BA,8,36,2481..3131,TAILLE EXACTE
+19A0,0xE69FA,36,0xC60A,word_C60A,8,36,700..1050,TAILLE EXACTE
+19A2,0xE6A1E,28,0xC3D2,word_C3D2,6,28,2481..3731,TAILLE EXACTE
+19A4,0xE6A3A,36,0xC3BA,word_C3BA,8,36,2431..3331,TAILLE EXACTE
+19A6,0xE6A5E,12,0xC60A,word_C60A,2,12,800..900,TAILLE EXACTE
+19A8,0xE6A6A,36,0xC3D2,word_C3D2,8,36,2481..3531,TAILLE EXACTE
+19AA,0xE6A8E,28,0xC3B0,word_C3B0,6,28,3271..3931,TAILLE EXACTE
+19AC,0xE6AAA,36,0xC3BA,word_C3BA,8,36,2381..2931,TAILLE EXACTE
+19AE,0xE6ACE,36,0xC60A,word_C60A,8,36,800..1500,TAILLE EXACTE
+19B0,0xE6AF2,36,0xC3D2,word_C3D2,8,36,2481..3431,TAILLE EXACTE
+19B2,0xE6B16,12,0xC3B0,word_C3B0,2,12,2531..2731,TAILLE EXACTE
+19B4,0xE6B22,36,0xC3C2,word_C3C2,8,36,297..593,TAILLE EXACTE
+19B6,0xE6B46,12,0xC60A,word_C60A,2,12,800..900,TAILLE EXACTE
+19B8,0xE6B52,52,0xC3D2,word_C3D2,12,52,2731..3771,TAILLE EXACTE
+19BA,0xE6B86,12,0xC60A,word_C60A,2,12,0..1800,TAILLE EXACTE
+19BC,0xE6B92,12,0xC3D2,word_C3D2,2,12,2231..4231,TAILLE EXACTE
+19BE,0xE6B9E,36,0xC3D2,word_C3D2,8,36,2481..3431,TAILLE EXACTE
+19C0,0xE6BC2,36,0xC3D2,word_C3D2,8,36,2481..3531,TAILLE EXACTE
+19C2,0xE6BE6,28,0xC3B0,word_C3B0,6,28,3271..3931,TAILLE EXACTE
+19C4,0xE6C02,4,,,,,,pas d en-tete 1-D
+19C6,0xE6C06,10,,,,,,pas d en-tete 1-D
+19C8,0xE6C10,36,0xC42E,word_C42E,8,36,1000..4500,TAILLE EXACTE
+19CA,0xE6C34,36,0xC42E,word_C42E,8,36,1000..4500,TAILLE EXACTE
+19CC,0xE6C58,36,0xC42E,word_C42E,8,36,1000..4500,TAILLE EXACTE
+19CE,0xE6C7C,52,0xC42E,word_C42E,12,52,1000..4500,TAILLE EXACTE
+19D0,0xE6CB0,36,0xC42E,word_C42E,8,36,1000..4500,TAILLE EXACTE
+19D2,0xE6CD4,32,,,,,,pas d en-tete 1-D
+19D4,0xE6CF4,32,,,,,,pas d en-tete 1-D
+19D6,0xE6D14,168,0xC42E,word_C42E,8,36,500..5400,reste 132 o
+19D8,0xE6DBC,28,0xC3D2,word_C3D2,6,28,2231..4231,TAILLE EXACTE
+19DA,0xE6DD8,14,,,,,,pas d en-tete 1-D
+19DC,0xE6DE6,2,,,,,,pas d en-tete 1-D
+19DE,0xE6DE8,6,,,,,,pas d en-tete 1-D
+19E0,0xE6DEE,6,,,,,,pas d en-tete 1-D
+19E2,0xE6DF4,32,,,,,,pas d en-tete 1-D
+19E4,0xE6E14,2,,,,,,pas d en-tete 1-D
+19E6,0xE6E16,16,,,,,,pas d en-tete 1-D
+19E8,0xE6E26,8,,,,,,pas d en-tete 1-D
+19EA,0xE6E2E,10,,,,,,pas d en-tete 1-D
+19EC,0xE6E38,2,,,,,,pas d en-tete 1-D
+19EE,0xE6E3A,2,,,,,,pas d en-tete 1-D
+19F0,0xE6E3C,6,,,,,,pas d en-tete 1-D
+19F2,0xE6E42,32,,,,,,pas d en-tete 1-D
+19F4,0xE6E62,10,,,,,,pas d en-tete 1-D
+19F6,0xE6E6C,12,0xC42E,word_C42E,2,12,612..5506,TAILLE EXACTE
+19F8,0xE6E78,4,,,,,,pas d en-tete 1-D
+19FA,0xE6E7C,2,,,,,,pas d en-tete 1-D
+19FC,0xE6E7E,204,0xC3BA,word_C3BA,8,36,2531..3531,reste 168 o
+19FE,0xE6F4A,28,0xC3BA,word_C3BA,6,28,2231..3731,TAILLE EXACTE
+1A00,0xE6F66,6,,,,,,pas d en-tete 1-D
+1A02,0xE6F6C,6,,,,,,pas d en-tete 1-D
+1A04,0xE6F72,32,,,,,,pas d en-tete 1-D
+1A06,0xE6F92,4,,,,,,pas d en-tete 1-D
+1A08,0xE6F96,36,0xC42E,word_C42E,8,36,0..5500,TAILLE EXACTE
+1A0A,0xE6FBA,36,0xC42E,word_C42E,8,36,0..5000,TAILLE EXACTE
+1A0C,0xE6FDE,44,0xC3D2,word_C3D2,10,44,2481..3231,TAILLE EXACTE
+1A0E,0xE700A,44,0xC42E,word_C42E,10,44,800..3000,TAILLE EXACTE
+1A10,0xE7036,44,0xC42E,word_C42E,10,44,800..3000,TAILLE EXACTE
+1A12,0xE7062,24,,,,,,pas d en-tete 1-D
+1A14,0xE707A,380,0xC42E,word_C42E,16,68,800..5500,reste 312 o
+1A16,0xE71F6,206,0xC60A,word_C60A,9,40,600..1024,reste 166 o
+1A18,0xE72C4,380,0xC42E,word_C42E,16,68,800..5500,reste 312 o
+1A1A,0xE7440,12,0xC3BA,word_C3BA,2,12,2537..3731,TAILLE EXACTE
+1A1C,0xE744C,380,0xC42E,word_C42E,16,68,800..5500,reste 312 o
+1A1E,0xE75C8,44,0xC42E,word_C42E,10,44,250..4500,TAILLE EXACTE
+1A20,0xE75F4,44,0xC42E,word_C42E,10,44,250..4500,TAILLE EXACTE
+1A22,0xE7620,32,,,,,,pas d en-tete 1-D
+1A24,0xE7640,32,,,,,,pas d en-tete 1-D
+1A26,0xE7660,32,,,,,,pas d en-tete 1-D
+1A28,0xE7680,32,,,,,,pas d en-tete 1-D
+1A2A,0xE76A0,32,,,,,,pas d en-tete 1-D
+1A2C,0xE76C0,32,,,,,,pas d en-tete 1-D
+1A2E,0xE76E0,32,,,,,,pas d en-tete 1-D
+1A30,0xE7700,32,,,,,,pas d en-tete 1-D
+1A32,0xE7720,32,,,,,,pas d en-tete 1-D
+1A34,0xE7740,32,,,,,,pas d en-tete 1-D
+1A36,0xE7760,32,,,,,,pas d en-tete 1-D
+1A38,0xE7780,32,,,,,,pas d en-tete 1-D
+1A3A,0xE77A0,32,,,,,,pas d en-tete 1-D
+1A3C,0xE77C0,32,,,,,,pas d en-tete 1-D
+1A3E,0xE77E0,32,,,,,,pas d en-tete 1-D
+1A40,0xE7800,36,,,,,,pas d en-tete 1-D
+1A42,0xE7824,4,,,,,,pas d en-tete 1-D
+1A44,0xE7828,248,0xC60A,word_C60A,10,44,600..1050,reste 204 o
+1A46,0xE7920,206,0xC60A,word_C60A,9,40,600..1000,reste 166 o
+1A48,0xE79EE,18,,,,,,pas d en-tete 1-D
+1A4A,0xE7A00,380,0xC42E,word_C42E,16,68,0..5500,reste 312 o
+1A4C,0xE7B7C,380,0xC42E,word_C42E,16,68,0..5500,reste 312 o
+1A4E,0xE7CF8,12,0xC3BA,word_C3BA,2,12,2537..2736,TAILLE EXACTE
+1A50,0xE7D04,52,0xD354,word_D354,12,52,-5000..6000 NON MONOTONE,TAILLE EXACTE
+1A52,0xE7D38,12,0xC38E,word_C38E,2,12,626..700,TAILLE EXACTE
+1A54,0xE7D44,104,0xD356,?,6,28,-5500..-4490,reste 76 o
+1A56,0xE7DAC,104,0xC6A2,word_C6A2,6,28,0..6000,reste 76 o
+1A58,0xE7E14,4,,,,,,pas d en-tete 1-D
+1A5A,0xE7E18,28,0xC3D2,word_C3D2,6,28,2481..2931,TAILLE EXACTE
+1A5C,0xE7E34,6,,,,,,pas d en-tete 1-D
+1A5E,0xE7E3A,6,,,,,,pas d en-tete 1-D
+1A60,0xE7E40,32,,,,,,pas d en-tete 1-D
+1A62,0xE7E60,36,0xD36A,byte_D36A,8,36,0..255,TAILLE EXACTE
+1A64,0xE7E84,34,,,,,,pas d en-tete 1-D
+1A66,0xE7EA6,24,0xD369,byte_D369,5,24,0..255,TAILLE EXACTE
+1A68,0xE7EBE,36,0xD369,byte_D369,8,36,0..255,TAILLE EXACTE
+1A6A,0xE7EE2,36,0xD366,byte_D366,8,36,0..224,TAILLE EXACTE
+1A6C,0xE7F06,12,0xD36A,byte_D36A,2,12,193..204,TAILLE EXACTE
+1A6E,0xE7F12,12,0xD36A,byte_D36A,2,12,181..204,TAILLE EXACTE
+1A70,0xE7F1E,12,0xC3D2,word_C3D2,2,12,2251..4164,TAILLE EXACTE
+1A72,0xE7F2A,8,,,,,,pas d en-tete 1-D
+1A74,0xE7F32,8,,,,,,pas d en-tete 1-D
+1A76,0xE7F3A,8,,,,,,pas d en-tete 1-D
+1A78,0xE7F42,2,,,,,,pas d en-tete 1-D
+1A7A,0xE7F44,24,0xD36C,word_D36C,5,24,0..12336,TAILLE EXACTE
+1A7C,0xE7F5C,24,0xD36C,word_D36C,5,24,0..14701,TAILLE EXACTE
+1A7E,0xE7F74,2,,,,,,pas d en-tete 1-D
+1A80,0xE7F76,8,,,,,,pas d en-tete 1-D
+1A82,0xE7F7E,96,0xC42E,word_C42E,8,36,800..4800,reste 60 o
+1A84,0xE8000,132,0xC42E,word_C42E,8,36,800..4800,reste 96 o
+1A86,0xE7FDE,2,,,,,,pas d en-tete 1-D
+1A88,0xE7FE0,6,,,,,,pas d en-tete 1-D
+1A8A,0xE8084,28,0xC3D2,word_C3D2,6,28,2531..3381,TAILLE EXACTE
+1A8C,0xE80A0,204,0xC42E,word_C42E,8,36,100..1000,reste 168 o
+1A8E,0xE816C,28,0xC3D2,word_C3D2,6,28,2551..3631,TAILLE EXACTE
+1A90,0xE7FE6,8,,,,,,pas d en-tete 1-D
+1A92,0xE8188,28,0xC3D2,word_C3D2,6,28,2431..3731,TAILLE EXACTE
+1A94,0xE7FEE,4,,,,,,pas d en-tete 1-D
+1A96,0xE7FF2,2,,,,,,pas d en-tete 1-D
+1A98,0xE7FF4,2,,,,,,pas d en-tete 1-D
+1A9A,0xE81A4,62,,,,,,pas d en-tete 1-D
+1A9C,0xE7FF6,2,,,,,,pas d en-tete 1-D
+1A9E,0xE7FF8,2,,,,,,pas d en-tete 1-D
+1AA0,0xE81E2,36,0xC3D2,word_C3D2,8,36,2431..3531,TAILLE EXACTE
+1AA2,0xE8206,8,,,,,,pas d en-tete 1-D
+1AA4,0xE7FFA,4,,,,,,pas d en-tete 1-D
+1AA6,0xE820E,4,,,,,,pas d en-tete 1-D
+1AA8,0xE8212,4,,,,,,pas d en-tete 1-D
+1AAA,0xE8216,4,,,,,,pas d en-tete 1-D
+1AAC,0xE821A,4,,,,,,pas d en-tete 1-D
+1AAE,0xE821E,4,,,,,,pas d en-tete 1-D
+1AB0,0xE8222,4,,,,,,pas d en-tete 1-D
+1AB2,0xE8226,4,,,,,,pas d en-tete 1-D
+1AB4,0xE822A,4,,,,,,pas d en-tete 1-D
+1AB6,0xE822E,4,,,,,,pas d en-tete 1-D
+1AB8,0xE8232,4,,,,,,pas d en-tete 1-D
+1ABA,0xE8236,4,,,,,,pas d en-tete 1-D
+1ABC,0xE823A,4,,,,,,pas d en-tete 1-D
+1ABE,0xE823E,4,,,,,,pas d en-tete 1-D
+1AC0,0xE8242,4,,,,,,pas d en-tete 1-D
+1AC2,0xE8246,4,,,,,,pas d en-tete 1-D
+1AC4,0xE824A,4,,,,,,pas d en-tete 1-D
+1AC6,0xE824E,4,,,,,,pas d en-tete 1-D
+1AC8,0xE8252,4,,,,,,pas d en-tete 1-D
+1ACA,0xE8256,4,,,,,,pas d en-tete 1-D
+1ACC,0xE825A,4,,,,,,pas d en-tete 1-D
+1ACE,0xE825E,4,,,,,,pas d en-tete 1-D
+1AD0,0xE8262,4,,,,,,pas d en-tete 1-D
+1AD2,0xE8266,4,,,,,,pas d en-tete 1-D
+1AD4,0xE826A,4,,,,,,pas d en-tete 1-D
+1AD6,0xE826E,6,,,,,,pas d en-tete 1-D
+1AD8,0xE8274,6,,,,,,pas d en-tete 1-D
+1ADA,0xE827A,6,,,,,,pas d en-tete 1-D
+1ADC,0xE8280,6,,,,,,pas d en-tete 1-D
+1ADE,0xE8286,6,,,,,,pas d en-tete 1-D
+1AE0,0xE828C,6,,,,,,pas d en-tete 1-D
+1AE2,0xE8292,6,,,,,,pas d en-tete 1-D
+1AE4,0xE8298,6,,,,,,pas d en-tete 1-D
+1AE6,0xE829E,6,,,,,,pas d en-tete 1-D
+1AE8,0xE82A4,6,,,,,,pas d en-tete 1-D
+1AEA,0xE82AA,6,,,,,,pas d en-tete 1-D
+1AEC,0xE82B0,6,,,,,,pas d en-tete 1-D
+1AEE,0xE82B6,4,,,,,,pas d en-tete 1-D
+1AF0,0xE82BA,4,,,,,,pas d en-tete 1-D
+1AF2,0xE82BE,4,,,,,,pas d en-tete 1-D
+1AF4,0xE82C2,4,,,,,,pas d en-tete 1-D
+1AF6,0xE82C6,4,,,,,,pas d en-tete 1-D
+1AF8,0xE82CA,4,,,,,,pas d en-tete 1-D
+1AFA,0xE82CE,6,,,,,,pas d en-tete 1-D
+1AFC,0xE82D4,6,,,,,,pas d en-tete 1-D
+1AFE,0xE82DA,6,,,,,,pas d en-tete 1-D
+1B00,0xE82E0,6,,,,,,pas d en-tete 1-D
+1B02,0xE82E6,6,,,,,,pas d en-tete 1-D
+1B04,0xE82EC,6,,,,,,pas d en-tete 1-D
+1B06,0xE82F2,6,,,,,,pas d en-tete 1-D
+1B08,0xE82F8,6,,,,,,pas d en-tete 1-D
+1B0A,0xE82FE,6,,,,,,pas d en-tete 1-D
+1B0C,0xE8304,6,,,,,,pas d en-tete 1-D
+1B0E,0xE830A,6,,,,,,pas d en-tete 1-D
+1B10,0xE8310,6,,,,,,pas d en-tete 1-D
+1B12,0xE8316,6,,,,,,pas d en-tete 1-D
+1B14,0xE7FFE,2,,,,,,pas d en-tete 1-D
+1B16,0xE831C,6,,,,,,pas d en-tete 1-D
+1B18,0xE8322,6,,,,,,pas d en-tete 1-D
+1B1A,0xE8328,6,,,,,,pas d en-tete 1-D
+1B1C,0xE832E,6,,,,,,pas d en-tete 1-D
+1B1E,0xE8334,6,,,,,,pas d en-tete 1-D
+1B20,0xE833A,32,,,,,,pas d en-tete 1-D
+1B22,0xE835A,16,,,,,,pas d en-tete 1-D
+1B24,0xE836A,18,,,,,,pas d en-tete 1-D
+1B26,0xE837C,10,,,,,,pas d en-tete 1-D
+1B28,0xE8386,12,0xC3D2,word_C3D2,2,12,2731..3731,TAILLE EXACTE
+1B2A,0xE8392,24,0xC42E,word_C42E,2,12,0..5000,reste 12 o
+1B2C,0xE83AA,6,,,,,,pas d en-tete 1-D
+1B2E,0xE83B0,6,,,,,,pas d en-tete 1-D
+1B30,0xE83B6,6,,,,,,pas d en-tete 1-D
+1B32,0xE83BC,6,,,,,,pas d en-tete 1-D
+1B34,0xE83C2,6,,,,,,pas d en-tete 1-D
+1B36,0xE83C8,6,,,,,,pas d en-tete 1-D
+1B38,0xE83CE,6,,,,,,pas d en-tete 1-D
+1B3A,0xE83D4,6,,,,,,pas d en-tete 1-D
+1B3C,0xE83DA,26,,,,,,pas d en-tete 1-D
+1B3E,0xE83F4,80,0xC42E,word_C42E,19,80,0..5200,TAILLE EXACTE
+1B40,0xE8444,584,0xC42E,word_C42E,16,68,0..5200,reste 516 o
+1B42,0xE868C,104,0xC3D2,word_C3D2,6,28,2431..3831,reste 76 o
+1B44,0xE86F4,226,0xC42E,word_C42E,10,44,0..1760,reste 182 o
+1B46,0xE87D6,24,0xC42E,word_C42E,2,12,200..620,reste 12 o
+1B48,0xE87EE,28,0xC562,word_C562,6,28,1500..20000,TAILLE EXACTE
+1B4A,0xE880A,104,0xC42E,word_C42E,6,28,1300..4000,reste 76 o
+1B4C,0xE8872,104,0xC42E,word_C42E,6,28,0..5000,reste 76 o
+1B4E,0xE88DA,28,0xD3CC,word_D3CC,6,28,2231..4231,TAILLE EXACTE
+1B50,0xE88F6,2,,,,,,pas d en-tete 1-D
+1B52,0xE88F8,14,,,,,,pas d en-tete 1-D
+1B54,0xE8906,64,0xC42E,word_C42E,15,64,635..4000,TAILLE EXACTE
+1B56,0xE8946,64,0xC42E,word_C42E,15,64,635..4000,TAILLE EXACTE
+1B58,0xE8986,64,0xC42E,word_C42E,15,64,635..4000,TAILLE EXACTE
+1B5A,0xE89C6,52,0xC42E,word_C42E,12,52,0..5000,TAILLE EXACTE
+1B5C,0xE89FA,12,0xC42E,word_C42E,2,12,635..680,TAILLE EXACTE
+1B5E,0xE8A06,248,0xC42E,word_C42E,10,44,0..5002,reste 204 o
+1B60,0xE8AFE,6,,,,,,pas d en-tete 1-D
+1B62,0xE8B04,12,0xC42E,word_C42E,2,12,200..400,TAILLE EXACTE
+1B64,0xE8B10,64,0xC42E,word_C42E,15,64,635..4000,TAILLE EXACTE
+1B66,0xE8B50,132,0xC42E,word_C42E,8,36,0..5000,reste 96 o
+1B68,0xE8BD4,132,0xC42E,word_C42E,8,36,0..5000,reste 96 o
+1B6A,0xE8C58,2,,,,,,pas d en-tete 1-D
+1B6C,0xE8C5A,6,,,,,,pas d en-tete 1-D
+1B6E,0xE8C60,32,,,,,,pas d en-tete 1-D
+1B70,0xE8C80,14,,,,,,pas d en-tete 1-D
+1B72,0xE8C8E,10,,,,,,pas d en-tete 1-D
+1B74,0xE8C98,10,,,,,,pas d en-tete 1-D
+1B76,0xE8CA2,10,,,,,,pas d en-tete 1-D
+1B78,0xE8CAC,10,,,,,,pas d en-tete 1-D
+1B7A,0xE8CB6,2,,,,,,pas d en-tete 1-D
+1B7C,0xE8CB8,4,,,,,,pas d en-tete 1-D
+1B7E,0xE8CBC,10,,,,,,pas d en-tete 1-D
+1B80,0xE8CC6,4,,,,,,pas d en-tete 1-D
+1B82,0xE8CCA,4,,,,,,pas d en-tete 1-D
+1B84,0xE8CCE,4,,,,,,pas d en-tete 1-D
+1B86,0xE8CD2,4,,,,,,pas d en-tete 1-D
+1B88,0xE8CD6,4,,,,,,pas d en-tete 1-D
+1B8A,0xE8CDA,2,,,,,,pas d en-tete 1-D
+1B8C,0xE8CDC,2,,,,,,pas d en-tete 1-D
+1B8E,0xE8CDE,2,,,,,,pas d en-tete 1-D
+1B90,0xE8CE0,2,,,,,,pas d en-tete 1-D
+1B92,0xE8CE2,2,,,,,,pas d en-tete 1-D
+1B94,0xE8CE4,4,,,,,,pas d en-tete 1-D
+1B96,0xE8CE8,4,,,,,,pas d en-tete 1-D
+1B98,0xE8CEC,2,,,,,,pas d en-tete 1-D
+1B9A,0xE8CEE,2,,,,,,pas d en-tete 1-D
+1B9C,0xE8CF0,2,,,,,,pas d en-tete 1-D
+1B9E,0xE8CF2,4,,,,,,pas d en-tete 1-D
+1BA0,0xE8CF6,6,,,,,,pas d en-tete 1-D
+1BA2,0xE8CFC,6,,,,,,pas d en-tete 1-D
+1BA4,0xE8D02,6,,,,,,pas d en-tete 1-D
+1BA6,0xE8D08,6,,,,,,pas d en-tete 1-D
+1BA8,0xE8D0E,6,,,,,,pas d en-tete 1-D
+1BAA,0xE8D14,6,,,,,,pas d en-tete 1-D
+1BAC,0xE8D1A,6,,,,,,pas d en-tete 1-D
+1BAE,0xE8D20,6,,,,,,pas d en-tete 1-D
+1BB0,0xE8D26,10,,,,,,pas d en-tete 1-D
+1BB2,0xE8D30,10,,,,,,pas d en-tete 1-D
+1BB4,0xE8D3A,10,,,,,,pas d en-tete 1-D
+1BB6,0xE8D44,10,,,,,,pas d en-tete 1-D
+1BB8,0xE8D4E,10,,,,,,pas d en-tete 1-D
+1BBA,0xE8D58,10,,,,,,pas d en-tete 1-D
+1BBC,0xE8D62,10,,,,,,pas d en-tete 1-D
+1BBE,0xE8D6C,10,,,,,,pas d en-tete 1-D
+1BC0,0xE8D76,10,,,,,,pas d en-tete 1-D
+1BC2,0xE8D80,10,,,,,,pas d en-tete 1-D
+1BC4,0xE8D8A,10,,,,,,pas d en-tete 1-D
+1BC6,0xE8D94,10,,,,,,pas d en-tete 1-D
+1BC8,0xE8D9E,10,,,,,,pas d en-tete 1-D
+1BCA,0xE8DA8,10,,,,,,pas d en-tete 1-D
+1BCC,0xE8DB2,10,,,,,,pas d en-tete 1-D
+1BCE,0xE8DBC,10,,,,,,pas d en-tete 1-D
+1BD0,0xE8DC6,10,,,,,,pas d en-tete 1-D
+1BD2,0xE8DD0,10,,,,,,pas d en-tete 1-D
+1BD4,0xE8DDA,10,,,,,,pas d en-tete 1-D
+1BD6,0xE8DE4,10,,,,,,pas d en-tete 1-D
+1BD8,0xE8DEE,10,,,,,,pas d en-tete 1-D
+1BDA,0xE8DF8,10,,,,,,pas d en-tete 1-D
+1BDC,0xE8E02,2,,,,,,pas d en-tete 1-D
+1BDE,0xE8E04,2,,,,,,pas d en-tete 1-D
+1BE0,0xE8E06,2,,,,,,pas d en-tete 1-D
+1BE2,0xE8E08,2,,,,,,pas d en-tete 1-D
+1BE4,0xE8E0A,2,,,,,,pas d en-tete 1-D
+1BE6,0xE8E0C,2,,,,,,pas d en-tete 1-D
+1BE8,0xE8E0E,2,,,,,,pas d en-tete 1-D
+1BEA,0xE8E10,2,,,,,,pas d en-tete 1-D
+1BEC,0xE8E12,20,0xC6A2,word_C6A2,4,20,0..5000,TAILLE EXACTE
+1BEE,0xE8E26,162,,,,,,pas d en-tete 1-D
+1BF0,0xE8EC8,4,,,,,,pas d en-tete 1-D
+1BF2,0xE8ECC,168,0xC42E,word_C42E,8,36,0..4500,reste 132 o
+1BF4,0xE8F74,12,0xC42E,word_C42E,2,12,750..4000,TAILLE EXACTE
+1BF6,0xE8F80,24,0xC42E,word_C42E,2,12,0..1600,reste 12 o
+1BF8,0xE8F98,162,,,,,,pas d en-tete 1-D
+1BFA,0xE903A,162,,,,,,pas d en-tete 1-D
+1BFC,0xE90DC,18,,,,,,pas d en-tete 1-D
+1BFE,0xE90EE,18,,,,,,pas d en-tete 1-D
+1C00,0xE9100,12,0xC63C,word_C63C,2,12,-4267..17493 NON MONOTONE,TAILLE EXACTE
+1C02,0xE910C,2,,,,,,pas d en-tete 1-D
+1C04,0xE910E,162,,,,,,pas d en-tete 1-D
+1C06,0xE91B0,28,0xC42E,word_C42E,6,28,0..4000,TAILLE EXACTE
+1C08,0xE91CC,12,0xC42E,word_C42E,2,12,750..4000,TAILLE EXACTE
+1C0A,0xE91D8,12,0xC3D2,word_C3D2,2,12,2347..4067,TAILLE EXACTE
+1C0C,0xE91E4,22,,,,,,pas d en-tete 1-D
+1C0E,0xE91FA,4,,,,,,pas d en-tete 1-D
+1C10,0xE91FE,6,,,,,,pas d en-tete 1-D
+1C12,0xE9204,6,,,,,,pas d en-tete 1-D
+1C14,0xE920A,6,,,,,,pas d en-tete 1-D
+1C16,0xE9210,6,,,,,,pas d en-tete 1-D
+1C18,0xE9216,6,,,,,,pas d en-tete 1-D
+1C1A,0xE921C,6,,,,,,pas d en-tete 1-D
+1C1C,0xE9222,6,,,,,,pas d en-tete 1-D
+1C1E,0xE9228,6,,,,,,pas d en-tete 1-D
+1C20,0xE922E,6,,,,,,pas d en-tete 1-D
+1C22,0xE9234,6,,,,,,pas d en-tete 1-D
+1C24,0xE923A,6,,,,,,pas d en-tete 1-D
+1C26,0xE9240,6,,,,,,pas d en-tete 1-D
+1C28,0xE9246,32,,,,,,pas d en-tete 1-D
+1C2A,0xE9266,32,,,,,,pas d en-tete 1-D
+1C2C,0xE9286,32,,,,,,pas d en-tete 1-D
+1C2E,0xE92A6,32,,,,,,pas d en-tete 1-D
+1C30,0xE92C6,32,,,,,,pas d en-tete 1-D
+1C32,0xE92E6,32,,,,,,pas d en-tete 1-D
+1C34,0xE9306,32,,,,,,pas d en-tete 1-D
+1C36,0xE9326,32,,,,,,pas d en-tete 1-D
+1C38,0xE9346,12,,,,,,pas d en-tete 1-D
+1C3A,0xE9352,2,,,,,,pas d en-tete 1-D
+1C3C,0xE9354,36,0xC42E,word_C42E,8,36,0..5000,TAILLE EXACTE
+1C3E,0xE9378,66,,,,,,pas d en-tete 1-D
+1C40,0xE93BA,2,,,,,,pas d en-tete 1-D
+1C42,0xE93BC,6,,,,,,pas d en-tete 1-D
+1C44,0xE93C2,6,,,,,,pas d en-tete 1-D
+1C46,0xE93C8,6,,,,,,pas d en-tete 1-D
+1C48,0xE93CE,6,,,,,,pas d en-tete 1-D
+1C4A,0xE93D4,6,,,,,,pas d en-tete 1-D
+1C4C,0xE93DA,2,,,,,,pas d en-tete 1-D
+1C4E,0xE93DC,2,,,,,,pas d en-tete 1-D
+1C50,0xE93DE,2,,,,,,pas d en-tete 1-D
+1C52,0xE93E0,2,,,,,,pas d en-tete 1-D
+1C54,0xE93E2,2,,,,,,pas d en-tete 1-D
+1C56,0xE93E4,2,,,,,,pas d en-tete 1-D
+1C58,0xE93E6,8,,,,,,pas d en-tete 1-D
+1C5A,0xE93EE,28,0xC42E,word_C42E,6,28,1300..2001,TAILLE EXACTE
+1C5C,0xE940A,28,0xC42E,word_C42E,6,28,1300..2001,TAILLE EXACTE
+1C5E,0xE9426,28,0xC42E,word_C42E,6,28,0..5000,TAILLE EXACTE
+1C60,0xE9442,28,0xC42E,word_C42E,6,28,1300..3501,TAILLE EXACTE
+1C62,0xE945E,4,,,,,,pas d en-tete 1-D
+1C64,0xE9462,32,,,,,,pas d en-tete 1-D
+1C66,0xE9482,6,,,,,,pas d en-tete 1-D
+1C68,0xE9488,6,,,,,,pas d en-tete 1-D
+1C6A,0xE948E,2,,,,,,pas d en-tete 1-D
+1C6C,0xE9490,8,,,,,,pas d en-tete 1-D
+1C6E,0xE9498,4,,,,,,pas d en-tete 1-D
+1C70,0xE949C,6,,,,,,pas d en-tete 1-D
+1C72,0xE94A2,8,,,,,,pas d en-tete 1-D
+1C74,0xE94AA,6,,,,,,pas d en-tete 1-D
+1C76,0xE94B0,6,,,,,,pas d en-tete 1-D
+1C78,0xE94B6,6,,,,,,pas d en-tete 1-D
+1C7A,0xE94BC,6,,,,,,pas d en-tete 1-D
+1C7C,0xE94C2,6,,,,,,pas d en-tete 1-D
+1C7E,0xE94C8,6,,,,,,pas d en-tete 1-D
+1C80,0xE94CE,32,,,,,,pas d en-tete 1-D
+1C82,0xE94EE,16,,,,,,pas d en-tete 1-D
+1C84,0xE94FE,256,,,,,,pas d en-tete 1-D
+1C86,0xE95FE,8,,,,,,pas d en-tete 1-D
+1C88,0xE9606,8,,,,,,pas d en-tete 1-D
+1C8A,0xE960E,8,,,,,,pas d en-tete 1-D
+1C8C,0xE9616,8,,,,,,pas d en-tete 1-D
+1C8E,0xE961E,8,,,,,,pas d en-tete 1-D
+1C90,0xE9626,12,0xC7C6,word_C7C6,2,12,1000..3000,TAILLE EXACTE
+1C92,0xE9632,24,0xC42E,word_C42E,2,12,650..1200,reste 12 o
+1C94,0xE964A,10,,,,,,pas d en-tete 1-D
+1C96,0xE9654,12,0xD4AC,word_D4AC,2,12,1000..3000,TAILLE EXACTE
+1C98,0xE9660,168,0xC42E,word_C42E,8,36,200..4000,reste 132 o
+1C9A,0xE9708,4,,,,,,pas d en-tete 1-D
+1C9C,0xE970C,12,0xC7C4,word_C7C4,2,12,1000..2500,TAILLE EXACTE
+1C9E,0xE9718,4,,,,,,pas d en-tete 1-D
+1CA0,0xE971C,4,,,,,,pas d en-tete 1-D
+1CA2,0xE9720,4,,,,,,pas d en-tete 1-D
+1CA4,0xE9724,36,0xD014,word_D014,8,36,0..9000,TAILLE EXACTE
+1CA6,0xE9748,256,,,,,,pas d en-tete 1-D
+1CA8,0xE9848,512,,,,,,pas d en-tete 1-D
+1CAA,0xE9A48,4,,,,,,pas d en-tete 1-D
+1CAC,0xE9A4C,256,,,,,,pas d en-tete 1-D
+1CAE,0xE9B4C,36,0xC3E4,word_C3E4,8,36,-6000..8000 NON MONOTONE,TAILLE EXACTE
+1CB0,0xE9B70,256,,,,,,pas d en-tete 1-D
+1CB2,0xE9C70,256,,,,,,pas d en-tete 1-D
+1CB4,0xE9D70,2,,,,,,pas d en-tete 1-D
+1CB6,0xE9D72,256,,,,,,pas d en-tete 1-D
+1CB8,0xE9E72,36,0xC3D2,word_C3D2,8,36,2531..3931,TAILLE EXACTE
+1CBA,0xE9E96,256,,,,,,pas d en-tete 1-D
+1CBC,0xE9F96,256,,,,,,pas d en-tete 1-D
+1CBE,0xEA096,8,,,,,,pas d en-tete 1-D
+1CC0,0xEA09E,16,,,,,,pas d en-tete 1-D
+1CC2,0xEA0AE,16,,,,,,pas d en-tete 1-D
+1CC4,0xEA0BE,16,,,,,,pas d en-tete 1-D
+1CC6,0xEA0CE,4,,,,,,pas d en-tete 1-D
+1CC8,0xEA0D2,4,,,,,,pas d en-tete 1-D
+1CCA,0xEA0D6,4,,,,,,pas d en-tete 1-D
+1CCC,0xEA0DA,4,,,,,,pas d en-tete 1-D
+1CCE,0xEA0DE,4,,,,,,pas d en-tete 1-D
+1CD0,0xEA0E2,4,,,,,,pas d en-tete 1-D
+1CD2,0xEA0E6,4,,,,,,pas d en-tete 1-D
+1CD4,0xEA0EA,4,,,,,,pas d en-tete 1-D
+1CD6,0xEA0EE,4,,,,,,pas d en-tete 1-D
+1CD8,0xEA0F2,16,,,,,,pas d en-tete 1-D
+1CDA,0xEA102,16,,,,,,pas d en-tete 1-D
+1CDC,0xEA112,16,,,,,,pas d en-tete 1-D
+1CDE,0xEA122,6,,,,,,pas d en-tete 1-D
+1CE0,0xEA128,6,,,,,,pas d en-tete 1-D
+1CE2,0xEA12E,32,,,,,,pas d en-tete 1-D
+1CE4,0xEA14E,12,,,,,,pas d en-tete 1-D
+1CE6,0xEA15A,12,,,,,,pas d en-tete 1-D
+1CE8,0xEA166,12,,,,,,pas d en-tete 1-D
+1CEA,0xEA172,12,,,,,,pas d en-tete 1-D
+1CEC,0xEA17E,12,,,,,,pas d en-tete 1-D
+1CEE,0xEA18A,12,,,,,,pas d en-tete 1-D
+1CF0,0xEA196,12,,,,,,pas d en-tete 1-D
+1CF2,0xEA1A2,6,,,,,,pas d en-tete 1-D
+1CF4,0xEA1A8,32,,,,,,pas d en-tete 1-D
+1CF6,0xEA1C8,8,,,,,,pas d en-tete 1-D
+1CF8,0xEA1D0,12,,,,,,pas d en-tete 1-D
+1CFA,0xEA1DC,12,,,,,,pas d en-tete 1-D
+1CFC,0xEA1E8,12,,,,,,pas d en-tete 1-D
+1CFE,0xEA1F4,12,,,,,,pas d en-tete 1-D
+1D00,0xEA200,2,,,,,,pas d en-tete 1-D
+1D02,0xEA202,2,,,,,,pas d en-tete 1-D
+1D04,0xEA204,12,,,,,,pas d en-tete 1-D
+1D06,0xEA210,4,,,,,,pas d en-tete 1-D
+1D08,0xEA214,4,,,,,,pas d en-tete 1-D
+1D0A,0xEA218,10,,,,,,pas d en-tete 1-D
+1D0C,0xEA222,10,,,,,,pas d en-tete 1-D
+1D0E,0xEA22C,10,,,,,,pas d en-tete 1-D
+1D10,0xEA236,10,,,,,,pas d en-tete 1-D
+1D12,0xEA240,10,,,,,,pas d en-tete 1-D
+1D14,0xEA24A,20,,,,,,pas d en-tete 1-D
+1D16,0xEA25E,20,,,,,,pas d en-tete 1-D
+1D18,0xEA272,20,,,,,,pas d en-tete 1-D
+1D1A,0xEA286,20,,,,,,pas d en-tete 1-D
+1D1C,0xEA29A,20,,,,,,pas d en-tete 1-D
+1D1E,0xEA2AE,20,,,,,,pas d en-tete 1-D
+1D20,0xEA2C2,20,,,,,,pas d en-tete 1-D
+1D22,0xEA2D6,20,,,,,,pas d en-tete 1-D
+1D24,0xEA2EA,34,,,,,,pas d en-tete 1-D
+1D26,0xEA30C,2,,,,,,pas d en-tete 1-D
+1D28,0xEA30E,4,,,,,,pas d en-tete 1-D
+1D2A,0xEA312,2,,,,,,pas d en-tete 1-D
+1D2C,0xEA314,20,,,,,,pas d en-tete 1-D
+1D2E,0xEA328,4,,,,,,pas d en-tete 1-D
+1D30,0xEA32C,22,,,,,,pas d en-tete 1-D
+1D32,0xEA342,12,,,,,,pas d en-tete 1-D
+1D34,0xEA34E,12,,,,,,pas d en-tete 1-D
+1D36,0xEA35A,12,,,,,,pas d en-tete 1-D
+1D38,0xEA366,12,,,,,,pas d en-tete 1-D
+1D3A,0xEA372,12,,,,,,pas d en-tete 1-D
+1D3C,0xEA37E,12,,,,,,pas d en-tete 1-D
+1D3E,0xEA38A,12,,,,,,pas d en-tete 1-D
+1D40,0xEA396,12,,,,,,pas d en-tete 1-D
+1D42,0xEA3A2,12,,,,,,pas d en-tete 1-D
+1D44,0xEA3AE,12,,,,,,pas d en-tete 1-D
+1D46,0xEA3BA,12,,,,,,pas d en-tete 1-D
+1D48,0xEA3C6,4,,,,,,pas d en-tete 1-D
+1D4A,0xEA3CA,12,,,,,,pas d en-tete 1-D
+1D4C,0xEA3D6,12,,,,,,pas d en-tete 1-D
+1D4E,0xEA3E2,12,,,,,,pas d en-tete 1-D
+1D50,0xEA3EE,12,,,,,,pas d en-tete 1-D
+1D52,0xEA3FA,12,,,,,,pas d en-tete 1-D
+1D54,0xEA406,12,,,,,,pas d en-tete 1-D
+1D56,0xEA412,12,,,,,,pas d en-tete 1-D
+1D58,0xEA41E,6,,,,,,pas d en-tete 1-D
+1D5A,0xEA424,12,,,,,,pas d en-tete 1-D
+1D5C,0xEA430,12,,,,,,pas d en-tete 1-D
+1D5E,0xEA43C,12,,,,,,pas d en-tete 1-D
+1D60,0xEA448,12,,,,,,pas d en-tete 1-D
+1D62,0xEA454,12,,,,,,pas d en-tete 1-D
+1D64,0xEA460,12,,,,,,pas d en-tete 1-D
+1D66,0xEA46C,12,,,,,,pas d en-tete 1-D
+1D68,0xEA478,12,,,,,,pas d en-tete 1-D
+1D6A,0xEA484,12,,,,,,pas d en-tete 1-D
+1D6C,0xEA490,12,,,,,,pas d en-tete 1-D
+1D6E,0xEA49C,12,,,,,,pas d en-tete 1-D
+1D70,0xEA4A8,12,,,,,,pas d en-tete 1-D
+1D72,0xEA4B4,12,,,,,,pas d en-tete 1-D
+1D74,0xEA4C0,12,,,,,,pas d en-tete 1-D
+1D76,0xEA4CC,12,,,,,,pas d en-tete 1-D
+1D78,0xEA4D8,12,,,,,,pas d en-tete 1-D
+1D7A,0xEA4E4,12,,,,,,pas d en-tete 1-D
+1D7C,0xEA4F0,12,,,,,,pas d en-tete 1-D
+1D7E,0xEA4FC,12,,,,,,pas d en-tete 1-D
+1D80,0xEA508,12,,,,,,pas d en-tete 1-D
+1D82,0xEA514,12,,,,,,pas d en-tete 1-D
+1D84,0xEA520,12,,,,,,pas d en-tete 1-D
+1D86,0xEA52C,6,,,,,,pas d en-tete 1-D
+1D88,0xEA532,6,,,,,,pas d en-tete 1-D
+1D8A,0xEA538,6,,,,,,pas d en-tete 1-D
+1D8C,0xEA53E,6,,,,,,pas d en-tete 1-D
+1D8E,0xEA544,6,,,,,,pas d en-tete 1-D
+1D90,0xEA54A,6,,,,,,pas d en-tete 1-D
+1D92,0xEA550,6,,,,,,pas d en-tete 1-D
+1D94,0xEA556,2,,,,,,pas d en-tete 1-D
+1D96,0xEA558,256,,,,,,pas d en-tete 1-D
+1D98,0xEA658,256,,,,,,pas d en-tete 1-D
+1D9A,0xEA758,256,,,,,,pas d en-tete 1-D
+1D9C,0xEA858,256,,,,,,pas d en-tete 1-D
+1D9E,0xEA958,256,,,,,,pas d en-tete 1-D
+1DA0,0xEAA58,8,,,,,,pas d en-tete 1-D
+1DA2,0xEAA60,256,,,,,,pas d en-tete 1-D
+1DA4,0xEAB60,256,,,,,,pas d en-tete 1-D
+1DA6,0xEAC60,256,,,,,,pas d en-tete 1-D
+1DA8,0xEAD60,256,,,,,,pas d en-tete 1-D
+1DAA,0xEAE60,256,,,,,,pas d en-tete 1-D
+1DAC,0xEAF60,8,,,,,,pas d en-tete 1-D
+1DAE,0xEAF68,4,,,,,,pas d en-tete 1-D
+1DB0,0xEAF6C,46,,,,,,pas d en-tete 1-D
+1DB2,0xEAF9A,14,,,,,,pas d en-tete 1-D
+1DB4,0xEAFA8,2,,,,,,pas d en-tete 1-D
+1DB6,0xEAFAA,8,,,,,,pas d en-tete 1-D
+1DB8,0xEAFB2,24,0xC42E,word_C42E,2,12,200..6000,reste 12 o
+1DBA,0xEAFCA,12,0xC3D2,word_C3D2,2,12,2431..3331,TAILLE EXACTE
+1DBC,0xEAFD6,6,,,,,,pas d en-tete 1-D
+1DBE,0xEAFDC,6,,,,,,pas d en-tete 1-D
+1DC0,0xEAFE2,512,,,,,,pas d en-tete 1-D
+1DC2,0xEB1E2,512,,,,,,pas d en-tete 1-D
+1DC4,0xEB3E2,720,0xC7C2,word_C7C2,16,68,1190..14000,reste 652 o
+1DC6,0xEB6B2,20,,,,,,pas d en-tete 1-D
+1DC8,0xEB6C6,8,,,,,,pas d en-tete 1-D
+1DCA,0xEB6CE,36,0xC6A2,word_C6A2,2,12,0..10000,reste 24 o
+1DCC,0xEB6F2,68,0xC7C2,word_C7C2,16,68,1200..13500,TAILLE EXACTE
+1DCE,0xEB736,68,0xC7C2,word_C7C2,16,68,1200..13500,TAILLE EXACTE
+1DD0,0xEB77A,24,0xC7C2,word_C7C2,2,12,1200..14000,reste 12 o
+1DD2,0xEB792,512,,,,,,pas d en-tete 1-D
+1DD4,0xEB992,32,,,,,,pas d en-tete 1-D
+1DD6,0xEB9B2,32,,,,,,pas d en-tete 1-D
+1DD8,0xEB9D2,8,,,,,,pas d en-tete 1-D
+1DDA,0xEB9DA,12,0xC3D2,word_C3D2,2,12,2431..2531,TAILLE EXACTE
+1DDC,0xEB9E6,24,0xC7C2,word_C7C2,2,12,6..40,reste 12 o
+1DDE,0xEB9FE,8,,,,,,pas d en-tete 1-D
+1DE0,0xEBA06,8,,,,,,pas d en-tete 1-D
+1DE2,0xEBA0E,8,,,,,,pas d en-tete 1-D
+1DE4,0xEBA16,10,,,,,,pas d en-tete 1-D
+1DE6,0xEBA20,8,,,,,,pas d en-tete 1-D
+1DE8,0xEBA28,12,0xC3E8,word_C3E8,2,12,0..2000,TAILLE EXACTE
+1DEA,0xEBA34,12,0xC7C2,word_C7C2,2,12,1190..1200,TAILLE EXACTE
+1DEC,0xEBA40,8,,,,,,pas d en-tete 1-D
+1DEE,0xEBA48,8,,,,,,pas d en-tete 1-D
+1DF0,0xEBA50,8,,,,,,pas d en-tete 1-D
+1DF2,0xEBA58,12,0xC60A,word_C60A,2,12,900..920,TAILLE EXACTE
+1DF4,0xEBA64,12,0xC3D2,word_C3D2,2,12,2431..2831,TAILLE EXACTE
+1DF6,0xEBA70,8,,,,,,pas d en-tete 1-D
+1DF8,0xEBA78,12,0xC3D2,word_C3D2,2,12,2731..4131,TAILLE EXACTE
+1DFA,0xEBA84,12,0xD5A2,word_D5A2,2,12,4731..5731,TAILLE EXACTE
+1DFC,0xEBA90,6,,,,,,pas d en-tete 1-D
+1DFE,0xEBA96,2,,,,,,pas d en-tete 1-D
+1E00,0xEBA98,6,,,,,,pas d en-tete 1-D
+1E02,0xEBA9E,6,,,,,,pas d en-tete 1-D
+1E04,0xEBAA4,6,,,,,,pas d en-tete 1-D
+1E06,0xEBAAA,6,,,,,,pas d en-tete 1-D
+1E08,0xEBAB0,6,,,,,,pas d en-tete 1-D
+1E0A,0xEBAB6,32,,,,,,pas d en-tete 1-D
+1E0C,0xEBAD6,2,,,,,,pas d en-tete 1-D
+1E0E,0xEBAD8,2,,,,,,pas d en-tete 1-D
+1E10,0xEBADA,28,0xD5AE,word_D5AE,6,28,3..30000,TAILLE EXACTE
+1E12,0xEBAF6,28,0xD5AE,word_D5AE,6,28,1..240,TAILLE EXACTE
+1E14,0xEBB12,36,0xD5AE,word_D5AE,8,36,2..120,TAILLE EXACTE
+1E16,0xEBB36,8,,,,,,pas d en-tete 1-D
+1E18,0xEBB3E,8,,,,,,pas d en-tete 1-D
+1E1A,0xEBB46,78,0xD5B0,?,5,24,100..500,reste 54 o
+1E1C,0xEBB94,6,,,,,,pas d en-tete 1-D
+1E1E,0xEBB9A,6,,,,,,pas d en-tete 1-D
+1E20,0xEBBA0,32,,,,,,pas d en-tete 1-D
+1E22,0xEBBC0,8,,,,,,pas d en-tete 1-D
+1E24,0xEBBC8,8,,,,,,pas d en-tete 1-D
+1E26,0xEBBD0,12,0xC42E,word_C42E,2,12,525..5355,TAILLE EXACTE
+1E28,0xEBBDC,44,0xC3BA,word_C3BA,10,44,2231..4081,TAILLE EXACTE
+1E2A,0xEBC08,12,0xC42E,word_C42E,2,12,525..5355,TAILLE EXACTE
+1E2C,0xEBC14,36,,,,,,pas d en-tete 1-D
+1E2E,0xEBC38,,0xC3BA,word_C3BA,3,16,2681..2832,

@@ -1,0 +1,36 @@
+offset;octet;sens;lecteur;effet;refs_miroir
++0x01;0x01;lecture;loc_A11BA l.151756;recopie -> byte_C2B1;7
++0x02;0x01;lecture;loc_A11BA l.151762;recopie -> byte_C2C5;7
++0x03;0x00;lecture;sub_BD464 l.200019;recopie -> byte_C2BD;16
++0x04;0x00;lecture;loc_A11BA l.151770;recopie -> byte_C2BB;2
++0x06;0x00;lecture;loc_A11BA l.151768;recopie -> byte_C2B9;4
++0x08;0x00;lecture;loc_A11BA l.151758;recopie -> byte_C2B2;3
++0x09;0x01;lecture;loc_A11BA l.151760;recopie -> byte_C2B0;5
++0x0A;0x30;lecture;loc_A11BA l.151764;recopie -> byte_C2C9;9
++0x0B;0x00;lecture;l.196410 / l.196439;test direct : si NON NUL -> consigne DB64=DB66=0;
++0x0C;0x00;lecture;l.196447;test direct : si NON NUL -> regulateur unk_2020 (PI);
++0x0D;0x01;lecture;l.196000;cmpb #1 : choisit l'etat 4 ou 5 de byte_DB73;
++0x0E;0x08;lecture;sub_BD464 l.199993;recopie -> byte_C2B7 (bit0 = 2 identifiants diagnostic);31
++0x0F;0x00;lecture;loc_A11BA l.151766;recopie -> byte_C2B3;4
++0x10;0x01;lecture;l.200396;recopie -> byte_C2B6;27
++0x11;0x00;lecture;l.200414;cmpb #1 : verrou, force C8EB=0 et C2B5=1;
++0x15;0x01;lecture;sub_BD464 l.199997;recopie -> byte_C2C0;18
++0x16;0x0A;lecture;sub_BD464 l.199983;recopie -> byte_C2BF;11
++0x17;0x02;lecture;sub_BD464 l.199989;recopie -> byte_C2B8;14
++0x18;0x02;lecture;loc_A11BA l.151772;recopie -> byte_C2B4;8
++0x19;0x03;lecture;sub_BD464 l.199999;recopie -> byte_C2D0;13
++0x1A;0x02;lecture;sub_BD464 l.200001;recopie -> byte_C2D1;16
++0x1B;0x01;lecture;sub_BD464 l.199985;recopie -> byte_C2CC;6
++0x1C;0x01;lecture;sub_BD464 l.199987;recopie -> byte_C2C7;6
++0x1D;0x00;lecture;sub_BD464 l.199991;recopie -> byte_C2C3;7
++0x1E;0x01;lecture;sub_BD464 l.200003;recopie -> byte_C2CE;9
++0x1F;0x01;lecture;sub_BD464 l.200005;recopie -> byte_C2CF;9
++0x20;0x00;lecture;sub_BD464 l.200007;recopie -> byte_C2CB;5
++0x21;0x00;lecture;sub_BD464 l.200009;recopie -> byte_C2CD;5
++0x22;0x00;lecture;sub_BD464 l.200011;recopie -> byte_C2C8;5
++0x23;0x00;lecture;sub_BD464 l.200013;recopie -> byte_C2BE;5
++0x24;0x00;lecture;sub_BD464 l.200015;recopie -> byte_C2C6;5
++0x25;0x01;lecture;sub_BD464 l.200017;recopie -> byte_C2CA;5
++0x26;0x00;lecture;sub_BD464 l.200021;recopie -> byte_C2C4;10
++0x27;0x01;lecture;loc_A11BA l.151774;recopie -> byte_C2BA;63
++0x28;0x02;lecture;sub_BD464 l.200023;recopie -> byte_C2C1;6

@@ -1,0 +1,14 @@
+handle;EA;taille_octets;contenu;symbole_code;lectures;segments
+0x141C;0xE111E;42;options (0x00 mort, 0x01=interrupteur maitre, 0x0B=coupe boucle);word_141C;9;s14,s15
+0x1F8A;0xE1127;4;30 01 00 00;(aucun);0;-
+0x232E;0xE112B;11;01 08 00 01 00 00 00 00 01 0A +1;(aucun);0;-
+0x1F0A;0xE1136;4;02 03 02 01;(aucun);0;-
+0x23F4;0xE113A;14;01 00 01 01 00 00 00 00 00 01 00 01 02 C3;(aucun);0;-
+0x141E;0xE1148;52;options : +06 +09 +0A(16x) +0C +0D +14(4 etats) +19 +1B +21..+26 +2A +2E +2F..+33;word_141E;97;s13,s14,s15,s16,s17
+0x2148;0xE1148;52;ALIAS exact de 0x141E;(aucun);0;-
+0x1420;0xE117C;24;12 x 0xFFFF (sentinelle pas de valeur);word_1420;2 (pointeur);s15,s16
+0x1E76;0xE1194;12;6 x 0xFFFF;(aucun);0;-
+0x1422;0xE11A0;23;zeros;word_1422;2 (pointeur);s15,s16
+0x1FE6;0xE11B7;11;zeros;(aucun);0;-
+0x1FC8;0xE11C2;2;0x0000;(aucun);0;-
+0x1424;0xE11C4;40;table de 20 valeurs 16 bits (0x0F10,0x0F61,...,0x1F5A,0x1F51,...);word_1424;4 (pointeur);s15,s16

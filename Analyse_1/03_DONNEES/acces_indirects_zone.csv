@@ -1,0 +1,9 @@
+piste;méthode;résultat;verdict
+immédiats des adresses de la zone (#111Eh,#1129h,#1148h,#117Ch,#11A0h,#11C4h);balayage du listing entier;0 occurrence;aucun accès direct par immédiat
+repointage des mots-handles (word_141C/141E/1420/1422/1424);recherche d'écritures;0 écriture;les pointeurs ne bougent jamais
+handle passé à une routine (1541 sites dans tout le firmware);fenêtre 6 lignes avant calls;6 candidats -> 6 FAUX POSITIFS;le vrai handle est chargé 3-4 lignes après (word_1994, word_19B6, word_1DCA...)
+sub_CE9B4 (686 appels) avec r1 = handle;relevé des r1;0 de nos handles;la zone ne sert pas de valeurs par défaut EEPROM
+extp / pages;liste des pages utilisées;0x22 0x24 0x33 0x37 0x3E 0x3F;les pages 0x38-0x3B (0xE0000-0xEFFFF) ne sont JAMAIS ouvertes
+sub_CE57E (seg016);"mov r3, word_1422 ; add r3,r12 ; mov r3,[r3]";INDIRECT RÉEL;"sélection par bits en RAM 0xFD21+idx ; idem word_1420"
+l.231675 (seg016);"mov r0, word_1424 ; add r0,r1 ; add r0,r1 ; mov r2,[r0]";INDIRECT RÉEL;"index r1 ; valeurs > 0x11 écartées par cmp r2,#11h"
+l.231375 (seg016);"mov r7, word_1424 ; mov r1,[r7+] (boucle)";INDIRECT RÉEL;20 entrées converties par sub_CFEFA

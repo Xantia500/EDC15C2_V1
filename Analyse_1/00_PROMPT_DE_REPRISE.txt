@@ -1,0 +1,76 @@
+================================================================================
+PROMPT DE REPRISE — à coller tel quel dans un nouveau chat
+================================================================================
+
+Tu reprends un projet de rétro-documentation d'un calculateur Bosch EDC15C2 monté
+sur Peugeot 406 2.2 HDi 4HX FAP (binaire SW 1037353776, HW 0281010877, full-mux
+3 broches). Le dossier complet est dans l'archive que je viens de fournir et il
+est autosuffisant.
+
+À FAIRE AVANT TOUTE CHOSE, dans cet ordre :
+
+1. Ouvre 00_LIRE_EN_PREMIER.md et lis-le intégralement. C'est le document de
+   passation : sources, modèle d'adressage, carte de l'image, état des
+   connaissances avec niveaux de confiance, errata, chantiers ouverts, règles.
+
+2. Vérifie les empreintes de 01_SOURCES/edc.bin et 01_SOURCES/clean.asm contre
+   MANIFESTE_SHA256.txt. Si elles ne correspondent pas, arrête-toi et dis-le-moi :
+   tout le dossier dépend de l'identité de ces deux fichiers.
+
+3. Lis ensuite 02_DOCUMENTS/ETAPE125_audit_adversarial.md : c'est l'état le plus
+   récent et le plus critique du dossier (audit où l'on a supposé que tout était
+   faux). Il corrige plusieurs affirmations des documents antérieurs.
+
+4. Consulte 02_DOCUMENTS/CATALOGUE_MAITRE.md (le document maître, ~5 300 lignes) :
+   conventions, inventaire des variables, courbes, cartes, registre des erratas
+   en §10, ce qui reste à trouver en §11.
+
+RÈGLES DE TRAVAIL QUE TU DOIS RESPECTER SANS EXCEPTION :
+
+- Ne rien inventer. Toute affirmation doit être adossée à clean.asm ou edc.bin.
+  Si tu ne peux pas prouver, dis "non démontré" et explique pourquoi.
+- Ne jamais reprendre un "N sites" sans le recompter. Plusieurs décomptes
+  antérieurs étaient faux (voir errata E34, E35, E37).
+- Citer le label ET l'adresse d'exécution ; la ligne de code en secours.
+- Nommage : ETAPE<n>_*.md, sections B.<n> dans le catalogue. Errata explicites.
+- Traçabilité de chaque carte : tagY/nY/axeY/tagX/nX/axeX/grille.
+- Le code d'abord, les cartes ensuite. Aucune carte sans site d'appel.
+- Une carte 2-D a besoin de 2 paramètres X et Y ; la vitesse n'a rien à voir
+  avec le couple.
+- L'ECU ne travaille qu'en quantité injectée (mm³). Les unités "N.m" sont rejetées.
+- Les checksums sont un sujet ABANDONNÉ : ne pas reproposer de recalcul.
+- Toute modification de calibration doit être appliquée aux DEUX copies
+  (duplication du bloc 0xE0000 en 0xF0000).
+- Ne pas relancer outils/segmente_blocs.py (a produit des artefacts).
+- outils/dump_handles.py utilise une formule erronée : ne pas s'en servir.
+
+CE QUI EST DÉJÀ FAIT ET QU'IL NE FAUT PAS REFAIRE :
+
+- Le modèle d'adressage : u16 @ (0x60000 + h), EA = 0xE0000 + entrée, décalage
+  en OCTETS. Validé empiriquement (6/6 courbes FAP, 298 structures, 385/385
+  appels). Ce n'est PAS prouvé par le code : c'est une inférence très bien
+  validée.
+- Le recensement des cartes 2-D : 86, exact à 100 %. Les chiffres 66 et 91 qui
+  traînent dans certains documents sont faux.
+- Le registre des 385 appels d'interpolation : exact à la ligne.
+- La voie FAP complète : porte byte_C2BA, tâche 0x12C, états byte_D7A8, drapeaux
+  byte_D7B8, intégrateur de suie word_D7B0, seuil word_D7B2, six courbes 1-D.
+- La conclusion sur la post-injection : il n'en existe pas de séparée (confiance
+  80 %) ; la régénération élargit le temps principal via word_C69E et word_C77C.
+
+CE QUI RESTE OUVERT (par ordre de rentabilité, détail en section I du document
+de passation) :
+
+1. Trouver ce qui écrit la table des handles 0x61400 — c'est la seule façon de
+   transformer l'inférence d'adressage en preuve.
+2. Trancher le sort des 8 cartes 2-D orphelines (aucune référence nominale).
+3. Cartographier sub_9CFD0 (couples index de record / identifiant).
+4. byte_C8EB, porte du terme word_C69E.
+5. Origine de word_BDAC / BDBC / BDDC.
+6. Localiser le capteur de pression différentielle FAP.
+
+COMMENCE PAR : lire les documents, vérifier les empreintes, puis me faire un
+résumé en 20 lignes de l'état du dossier et me proposer le chantier à attaquer.
+Ne produis aucune analyse nouvelle avant de m'avoir rendu ce résumé.
+
+================================================================================

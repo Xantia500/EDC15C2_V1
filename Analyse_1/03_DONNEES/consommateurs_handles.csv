@@ -1,0 +1,271 @@
+handle,nb_acces,consommateur_principal,part,autres_consommateurs
+word_1548,121,sub_C07F8,19%,sub_C2C58(17) sub_C1B5E(16) sub_C10F0(13)
+word_141E,103,sub_B7FD4,16%,sub_ACD4A(11) sub_A1E9E(6) sub_AFAA0(6)
+word_18C2,102,sub_A1E9E,100%,
+word_14A0,88,sub_BAC40,82%,sub_B7E5C(5) sub_B7788(4) sub_B7DAA(4)
+word_1C3E,86,sub_B7FD4,100%,
+word_1466,68,sub_C8012,94%,sub_CCF2A(4)
+word_1972,60,sub_A7D96,100%,
+word_14AA,60,sub_B35B6,97%,sub_B33DC(2)
+word_1928,58,sub_A7D96,100%,
+word_1434,56,sub_D3C5A,18%,sub_96FC0(8) sub_A7D96(5) sub_AFAA0(4)
+word_1952,52,sub_A7D96,100%,
+word_1658,51,sub_9BAF0,35%,sub_9A8B8(9) sub_9B796(9) sub_9AE42(4)
+word_18F2,50,sub_A5C92,100%,
+word_1A9A,47,sub_AFAA0,100%,
+word_18EE,44,sub_A5C92,100%,
+word_1A64,44,sub_AECE2,73%,sub_AE9F0(10) sub_AE886(2)
+word_1DB2,40,sub_D2EAA,75%,sub_D2BE2(6) sub_C6062(2) sub_C7398(1)
+word_141C,36,sub_BD464,56%,sub_A0CCC(10) sub_BAC40(4) sub_BDB22(2)
+word_161A,34,sub_97FF8,100%,
+word_148E,34,sub_B7FD4,100%,
+word_1454,33,sub_999AE,100%,
+word_1432,33,sub_B64A8,39%,sub_AFAA0(9) sub_B56F8(8) sub_AF520(3)
+word_1496,33,sub_D2EAA,67%,sub_D4D0A(7) sub_D2C48(2) sub_C7398(1)
+word_1904,32,sub_A7D96,100%,
+word_1DB0,32,sub_D2B1C,56%,sub_D2EAA(7) sub_AB652(3) sub_D4D0A(3)
+word_1E2C,32,sub_C2EFC,100%,
+word_172C,32,sub_C8012,100%,
+word_18B2,28,sub_A1E9E,100%,
+word_1474,27,sub_A1E9E,100%,
+word_1480,27,sub_B63F8,44%,sub_B64A8(11) sub_B630E(4)
+word_14B0,25,sub_B35B6,100%,
+word_1C82,25,sub_B7788,44%,sub_B7FD4(8) sub_BAC40(6)
+word_1E18,25,sub_D2EAA,48%,sub_D2CF2(6) sub_D4D0A(4) sub_D2DA6(3)
+word_147E,24,sub_AFAA0,33%,sub_B64A8(8) sub_B2D36(4) sub_B56F8(4)
+word_14A8,23,sub_B35B6,87%,sub_9B37A(3)
+word_1B3C,23,sub_AFAA0,100%,
+word_18F6,22,sub_A7D96,95%,sub_A7C5A(1)
+word_1D30,22,sub_C10F0,100%,
+word_18EC,20,sub_A5C92,100%,
+word_1D2C,20,sub_C1B5E,100%,
+word_1438,19,sub_972FA,68%,sub_B7FD4(6)
+word_15FE,19,sub_978FC,100%,
+word_1470,19,sub_CF9A2,47%,sub_9CB14(4) sub_CF900(2) sub_9C56A(1)
+word_1478,17,sub_A5C92,88%,sub_98D1E(1) sub_AF4A2(1)
+word_1664,16,sub_9BAF0,75%,sub_9B796(4)
+word_16FA,16,sub_9EBC0,100%,
+word_149A,16,sub_BAC40,50%,sub_AB652(4) sub_B7788(4)
+word_1A12,16,sub_ACD4A,100%,
+word_1B22,16,sub_AFAA0,100%,
+word_1464,16,sub_CD886,88%,sub_C8012(1) sub_CBDBC(1)
+word_185A,16,sub_CF774,100%,
+word_148A,15,sub_97FF8,27%,sub_AF932(4) sub_A7D96(2) sub_B7FD4(2)
+word_1654,15,sub_9CB14,80%,sub_9A8B8(1) sub_9C56A(1) sub_9C76A(1)
+word_1990,15,sub_AB652,100%,
+word_1708,15,sub_C7398,100%,
+word_1980,14,sub_A7D96,79%,sub_AB3AC(3)
+word_14A2,14,sub_BAC40,57%,sub_AC65E(6)
+word_142C,14,sub_B64A8,57%,sub_AFAA0(6)
+word_149C,14,sub_D3C5A,43%,sub_BF750(5) sub_B7788(3)
+word_160E,13,sub_97FF8,92%,sub_ACD4A(1)
+word_1618,13,sub_97FF8,77%,sub_989C2(3)
+word_1488,13,sub_AFAA0,69%,sub_9BAF0(3) sub_9B0E0(1)
+word_14C4,13,sub_B35B6,100%,
+word_166C,12,sub_9C56A,33%,sub_9C76A(4) sub_9A8B8(2) sub_9B2B2(2)
+word_1660,12,sub_9AE42,50%,sub_9B0E0(6)
+word_142A,12,sub_A1E9E,58%,sub_CEC02(5)
+word_1430,12,sub_AFAA0,83%,sub_B2D36(2)
+word_14B4,12,sub_B35B6,83%,sub_B3526(2)
+word_1462,12,sub_CD886,83%,sub_C8012(1) sub_CBDBC(1)
+word_1998,11,sub_AB652,100%,
+word_1CE4,11,sub_BD906,100%,
+word_146A,11,sub_CBDBC,100%,
+word_168C,10,sub_9E0FA,40%,sub_9EA2C(2) sub_9EA70(2) sub_9EAB4(2)
+word_189A,10,sub_A1E9E,100%,
+word_1B70,10,sub_B56F8,100%,
+word_1DC6,10,sub_D3C5A,100%,
+word_163A,9,sub_98F10,100%,
+word_168A,9,sub_9D4C2,33%,sub_9D332(2) sub_9D390(2) sub_9DCB8(2)
+word_16F8,9,sub_9EBC0,100%,
+word_147A,9,sub_AE0A8,67%,sub_A1E9E(3)
+word_186A,9,sub_A1E9E,100%,
+word_1974,9,sub_A7D96,100%,
+word_1C94,9,sub_AC65E,89%,sub_D3C5A(1)
+word_15D6,9,sub_C678C,100%,
+word_1634,8,sub_98D1E,100%,
+word_1656,8,sub_9B0E0,100%,
+word_1874,8,sub_A1E9E,100%,
+word_189C,8,sub_A1E9E,100%,
+word_19E6,8,sub_ACD4A,100%,
+word_1B52,8,sub_B2A46,100%,
+word_14B2,8,sub_B35B6,75%,sub_B3572(2)
+word_1468,8,sub_CCF2A,75%,sub_BAC40(2)
+word_1562,8,sub_C4AAE,100%,
+word_15CC,8,sub_C66EA,38%,sub_C6720(3) sub_C6062(2)
+word_146E,8,sub_CDD5E,62%,sub_CBDBC(2) sub_C8012(1)
+word_1812,8,sub_CD506,100%,
+word_15F0,7,sub_972FA,100%,
+word_1456,7,sub_99838,100%,
+word_18E8,7,sub_A5C92,57%,sub_A1E9E(3)
+word_19DA,7,sub_ACD4A,100%,
+word_1B26,7,sub_AFAA0,100%,
+word_1490,7,sub_C678C,57%,sub_BE9D2(3)
+word_1528,7,sub_C46D2,100%,
+word_1644,6,sub_9928E,100%,
+word_1646,6,sub_99518,100%,
+word_1674,6,sub_9B2B2,33%,sub_9C56A(2) sub_9C76A(2)
+word_165E,6,sub_9B2B2,33%,sub_9C56A(2) sub_9C76A(2)
+word_1818,6,sub_A1E9E,100%,
+word_148C,6,sub_B7FD4,100%,
+word_1DDE,6,sub_BF750,100%,
+word_157A,6,sub_C4AAE,100%,
+word_1810,6,sub_CD57E,100%,
+word_1854,6,sub_CE5E0,100%,
+word_16FC,5,sub_9EBC0,100%,
+word_1722,5,sub_A0CCC,100%,
+word_19C6,5,sub_AC65E,100%,
+word_19EA,5,sub_ACD4A,100%,
+word_14B8,5,sub_B35B6,100%,
+word_1DE4,5,sub_BF750,100%,
+word_14E2,5,sub_C2EFC,100%,
+word_1510,5,sub_C434C,60%,sub_C46D2(2)
+word_1540,5,sub_C4AAE,100%,
+word_172A,5,sub_C8012,100%,
+word_1852,5,sub_CE5E0,100%,
+word_166E,4,sub_9B37A,100%,
+word_1878,4,sub_A1E9E,100%,
+word_18E4,4,sub_A5C92,100%,
+word_19F4,4,sub_ACD4A,100%,
+word_1A06,4,sub_ACD4A,100%,
+word_1CF6,4,sub_AE144,100%,
+word_1A42,4,sub_AE144,100%,
+word_1A90,4,sub_AF520,100%,
+word_1B60,4,sub_B2D36,100%,
+word_1C3A,4,sub_B7FD4,100%,
+word_1CA0,4,sub_BAC40,100%,
+word_1D28,4,sub_C2E82,100%,
+word_141A,4,sub_C4196,50%,sub_C434C(2)
+word_1CFE,4,sub_C678C,100%,
+word_16F0,4,sub_C7398,100%,
+word_1706,4,sub_C7398,100%,
+word_1710,4,sub_C8012,100%,
+word_1C6C,4,sub_CFF94,100%,
+word_1D58,4,sub_D02D6,100%,
+word_1E16,4,sub_D2EAA,100%,
+word_1DB6,4,sub_D2EAA,100%,
+word_143A,3,sub_972FA,33%,sub_97FF8(1) sub_98F10(1)
+word_1476,3,sub_A7D96,67%,sub_98D1E(1)
+word_1626,3,sub_98D1E,100%,
+word_1650,3,sub_9A8B8,67%,sub_9C92E(1)
+word_16F6,3,sub_9EBC0,100%,
+word_1982,3,sub_AB652,100%,
+word_1A80,3,sub_AF520,100%,
+word_1A88,3,sub_AF6E8,100%,
+word_1B50,3,sub_B293A,100%,
+word_1486,3,sub_B7FD4,100%,
+word_1C4A,3,sub_B7FD4,100%,
+word_1CAA,3,sub_BAC40,100%,
+word_14FA,3,sub_BF750,100%,
+word_14E6,3,sub_C2EFC,100%,
+word_1504,3,sub_C4196,100%,
+word_150E,3,sub_C434C,100%,
+word_151C,3,sub_C46D2,100%,
+word_1534,3,sub_C4AAE,100%,
+word_1556,3,sub_C4AAE,100%,
+word_1436,3,sub_C4AAE,100%,
+word_1576,3,sub_C4AAE,100%,
+word_158C,3,sub_C4AAE,100%,
+word_145A,3,sub_C7398,100%,
+word_1702,3,sub_C7398,100%,
+word_1DB4,3,sub_D2EAA,67%,sub_D2CF2(1)
+word_1CE6,2,sub_97FF8,100%,
+word_164A,2,sub_99B6A,100%,
+word_1662,2,sub_9AE42,100%,
+word_1668,2,sub_9AE42,100%,
+word_1676,2,sub_9B37A,100%,
+word_1666,2,sub_9B37A,100%,
+word_1672,2,sub_9C23E,100%,
+word_166A,2,sub_9C43A,100%,
+word_1670,2,sub_9C43A,100%,
+word_1458,2,sub_9DCB8,50%,sub_BD464(1)
+word_1700,2,sub_9EBC0,100%,
+word_16FE,2,sub_9EBC0,100%,
+word_1718,2,sub_A0CCC,100%,
+word_1926,2,sub_A7D96,100%,
+word_19C4,2,sub_AC65E,100%,
+word_19F8,2,sub_ACD4A,100%,
+word_1A78,2,sub_AECE2,100%,
+word_1A86,2,sub_AF7B6,100%,
+word_1A94,2,sub_AFA60,100%,
+word_1A9E,2,sub_AFAA0,100%,
+word_1A9C,2,sub_AFAA0,100%,
+word_1AF2,2,sub_AFAA0,100%,
+word_1AF0,2,sub_AFAA0,100%,
+word_1AF6,2,sub_AFAA0,100%,
+word_1AF4,2,sub_AFAA0,100%,
+word_1AF8,2,sub_AFAA0,100%,
+word_1AEE,2,sub_AFAA0,100%,
+word_145E,2,sub_B35B6,50%,sub_C71D6(1)
+word_14B6,2,sub_B35B6,100%,
+word_1B7C,2,sub_B56F8,100%,
+word_1BE8,2,sub_B64A8,100%,
+word_1BEA,2,sub_B64A8,100%,
+word_1BE4,2,sub_B64A8,100%,
+word_1BE6,2,sub_B64A8,100%,
+word_1BE0,2,sub_B64A8,100%,
+word_1BE2,2,sub_B64A8,100%,
+word_1BDC,2,sub_B64A8,100%,
+word_1BDE,2,sub_B64A8,100%,
+word_1C0E,2,sub_B64A8,100%,
+word_1BF0,2,sub_B64A8,100%,
+word_1C40,2,sub_B7762,100%,
+word_1C62,2,sub_B7788,100%,
+word_1C6A,2,sub_BAC40,100%,
+word_1424,2,sub_BE2BA,50%,sub_CEC02(1)
+word_1422,2,sub_BE2BA,50%,sub_CE57E(1)
+word_1420,2,sub_BE2BA,50%,sub_CE57E(1)
+word_1D02,2,sub_BE8D0,50%,sub_BEDEC(1)
+word_1D2E,2,sub_C27DC,50%,sub_C28B6(1)
+word_1418,2,sub_C2EFC,100%,
+word_154A,2,sub_C4AAE,100%,
+word_156C,2,sub_C4AAE,100%,
+word_1598,2,sub_C4AAE,100%,
+word_15B8,2,sub_C6062,100%,
+word_15C2,2,sub_C6062,100%,
+word_1CFA,2,sub_C678C,100%,
+word_1CFC,2,sub_C678C,100%,
+word_16CC,2,sub_C6B44,100%,
+word_16EC,2,sub_C71D6,100%,
+word_1728,2,sub_C8012,100%,
+word_146C,2,sub_C8012,50%,sub_CBDBC(1)
+word_1858,2,sub_CEB64,100%,
+word_1DAE,2,sub_D2EAA,100%,
+word_1D94,1,sub_96292,100%,
+word_1648,1,sub_99838,100%,
+word_1450,1,sub_99B6A,100%,
+word_164C,1,sub_99B6A,100%,
+word_1716,1,sub_9FFE2,100%,
+word_187A,1,sub_A1E9E,100%,
+word_1896,1,sub_A1E9E,100%,
+word_1898,1,sub_A1E9E,100%,
+word_1472,1,sub_A1E9E,100%,
+word_18E6,1,sub_A1E9E,100%,
+word_18F0,1,sub_A5C92,100%,
+word_198C,1,sub_AB652,100%,
+word_198A,1,sub_AB652,100%,
+word_19E8,1,sub_ACD4A,100%,
+word_19DC,1,sub_ACD4A,100%,
+word_19E4,1,sub_ACD4A,100%,
+word_1B14,1,sub_AFAA0,100%,
+word_142E,1,sub_AFAA0,100%,
+word_1B6A,1,sub_B56F8,100%,
+word_1C02,1,sub_B64A8,100%,
+word_1C38,1,sub_B7FD4,100%,
+word_1C44,1,sub_B7FD4,100%,
+word_1CB4,1,sub_BAC40,100%,
+word_1D00,1,sub_BE10C,100%,
+word_1DE2,1,sub_BF750,100%,
+word_1D26,1,sub_C0AE0,100%,
+word_145C,1,sub_C23CC,100%,
+word_14F0,1,sub_C2EFC,100%,
+word_152A,1,sub_C4AAE,100%,
+word_15A4,1,sub_C6062,100%,
+word_15A8,1,sub_C6062,100%,
+word_16BC,1,sub_C6FE0,100%,
+word_170A,1,sub_C7398,100%,
+word_1704,1,sub_C7398,100%,
+word_1726,1,sub_C8012,100%,
+word_1724,1,sub_C8012,100%,
+word_1D2A,1,sub_D02D6,100%,
+word_1DFE,1,sub_D4D0A,100%,

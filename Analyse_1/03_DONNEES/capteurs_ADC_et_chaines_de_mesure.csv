@@ -1,0 +1,22 @@
+tache;voie_ADC;descripteur_EA;courbe_EA;tag_sortie;n_pts;axe_min;axe_max;sortie_min;sortie_max;RAM_physique_D0xx;copie_travail_C3xx;chemin_defaut_r3;famille;commentaire;fenetre_plausibilite;valeur_remplacement;verdict_etape13
+0x302;0;0xE363A;0xE35D6;partage;10;5;69;0;1540;C3D0;;0x5C;bloc partage;courbe commune a 4 voies (D06E/D070/D080/D082);n.d.;n.d.;non instruite a l'etape 13
+0x304;1;0xE35B8;0xE35D6;partage;10;5;69;0;1540;word_D06E;word_C3CE;0x6C;bloc partage;idem;n.d.;n.d.;non instruite a l'etape 13
+0x306;2;0xE301E;0xE302A;D044;4;20;1003;500;2500;word_D044+word_D046;word_C362;0xA2/0xA0;ratiometrique 0.5-4.5V;fenetre de validite + PAIRE REDONDANTE (D044/D046);n.d.;n.d.;paire redondante - controle croise, pas de conversion physique
+0x308;3;0xE349C;0xE34A8;D060;4;20;1023;133;2500;word_D060+word_D062;word_C378;0x96;capteur a deux elements;element A (ADC 0F844) + element B (ADC 0F854) moyennes;20..972;1000;DEBITMETRE element A - loi 0xE34A8 (133..2500 mg/coup) - valeur physique C3B2/C902
+0x30A;4;0xE34EA;0xE34F6;D066;12;192;1064;55;7739;word_D066 (+D068/D06A);word_C3B6+word_C37A;0xAC;capteur a deux elements;2e vue du MEME capteur, loi cubique;56..6500;1000;DEBITMETRE 2e vue - loi cubique 0xE34F6 (55..7739 mg/s) - C3B6=C37A moyenne brute bornee
+0x30C;5;0xE1106;0xE2FB2;D03A;2;485;970;600;1200;word_D03A;word_C360;0xA4/0xA6;pression d'environnement;loi 2 points 485->600 / 970->1200 mbar;450..972;839;PRESSION D'ENVIRONNEMENT 600-1200 mbar -> C38E/C60A/C940, axe des cartes 15EA/15EE
+0x30E;6;0xE353C;0xE3548;D06C;16;40;962;4031;2331;word_D06C;word_C3BA -> C904;non identifie;CTN;air d'admission -40..+130 C;39..992;3231 (+50,1 C);AIR D'ADMISSION (prouve : C3BA -> C904 -> D094, axe de la carte de densite 15EE)
+0x310;7;0xE3436;0xE3444;D05E;10;32;969;3931;2331;word_D05E;word_C3B0 -> C900;non identifie;CTN;gasoil -40..+130 C;10..966;3471 (+74,1 C);GASOIL (probable : courbes sollicitees > +60 C, repli carburant tiede)
+0x312;8;0xE306A;0xE3076;D048;16;32;1023;11731;2849;word_D048;word_C366 -> word_C394;0x82/0x80;CTP a diviseur inverse;+12..+900 C - EGT MESUREE;41..982;3691 (96 C);EGT mesuree - loi decroissante, remplacement 96 C
+0x314;9;0xE1112;0xE30EC;D04A;16;10;991;3731;11381;word_D04A;word_C368;0x88/0x86;CTP;+100..+865 C - SECONDE EGT;41..1005;6231 (623,1 C);2e EGT - le repli 623,1 C est la preuve logicielle du cas "une seule sonde"
+0x318;11;0xE3834;0xE3842;D084;24;42;1002;4032;2331;word_D084;word_C3D2 -> C908;non identifie;CTN;liquide de refroidissement -40..+130 C (24 points, la plus fine);20..1013;2631 (-10 C);LIQUIDE DE REFROIDISSEMENT (tres probable : 24 pts, 31 courbes, repli froid)
+0x31A;12;0xE3774;0xE35D6;partage;10;5;69;0;1540;word_D080;word_C388;n.d.;bloc partage;idem;n.d.;n.d.;non instruite a l'etape 13
+0x31C;13;0xE37B8;0xE35D6;partage;10;5;69;0;1540;word_D082;word_C38A;n.d.;bloc partage;idem;n.d.;n.d.;non instruite a l'etape 13
+0x31E;14;0xE3162;0xE316E;D04C;2;51;972;667;20667;word_D04C;word_C36A;0x9E/0x9A;plausibilite;paire de seuils de coherence;n.d.;n.d.;non instruite a l'etape 13
+0x320;15;0xE37FC;0xE3808;C3AA;2;57;340;1000;6000;word_C370;;0x6E;grandeur calculee;axe secondaire sur C3AA;n.d.;n.d.;non instruite a l'etape 13
+0x322;16;0xE2FF4;0xE3000;D03C;2;0;788;0;700;word_D042+word_D040;;0x140/0x142;voie analogique;deux sorties 0..700;n.d.;n.d.;non instruite a l'etape 13
+0x326;18;0xE31AC;0xE31B8;D052;4;20;1003;0;1000;word_D04E+word_D050;word_C36C;0x20A/0x208;validite ratiometrique;0 sous 0.5 V - 100 pour cent entre 0.5 et 4.5 V;20..972;120;FENETRE DE VALIDITE SEULE - aucune conversion physique du signal
+0x406;6;0xE3688;0xE3694;D072;2;2;4;0;0;word_D072;word_C382 -> C906;0x58;nibble/octet;mesure de type compteur (0..4) et non capteur;n.d.;n.d.;non instruite a l'etape 13
+0x408;8;0xE320C;0xE3218;D054;2;0;1023;0;5000;word_D054;word_C36E;non identifie;lineaire 10 bits;0..5000 = conversion brut -> mV;0..1064;100;conversion brut -> mV (0..5000) - PAS de conversion en mbar
+0x602;2;0xE3250;0xE325C;D056;4;102;922;0;15000;word_D056;word_C3CA -> C372;0x40;validite ratiometrique;0.5-4.5 V (15000 = 150 pour cent);51..972;15000;FENETRE DE VALIDITE - pas de conversion physique
+0x606;6;0xE342A;0xE3436;D05A;10;32;969;3931;2331;word_D05A;word_C374 -> word_C3AE;0x42;CTN (2e gamme);meme loi que D05E -> 2e entree pour la meme sonde;10..966;n.d.;2e gamme de la MEME CTN que D05E (double gamme)

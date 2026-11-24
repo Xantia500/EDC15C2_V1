@@ -1,0 +1,99 @@
+tag;type;nb_axes;min;max;unite_proposee;copie_travail;appels_2D;appels_1D
+C42E;mot;104;0;6000;regime moteur tr/min;word_C91C+word_C9EC;2;0
+C3D2;mot;36;2231;4231;temperature Kx10 -> -50..150 C;word_C908;0;0
+C6A2;mot;20;0;12000;a determiner;word_C94C;0;0
+C60A;mot;17;0;1800;regime moteur;word_C940;0;0
+C3BA;mot;13;2231;4081;temperature Kx10 -> -50..135 C;word_C904;0;0
+C7C2;mot;10;0;14000;a determiner;;2;1
+C5A8;mot;5;100;11000;quantite/consigne;;0;4
+C3B0;mot;5;2531;3931;temperature Kx10 -> -20..120 C;word_C900;0;0
+C3C2;mot;4;0;678;ADC 10 bits (brut);word_C906;0;0
+C60E;mot;4;0;7000;regime moteur;word_C942;0;0
+D004;mot;4;0;7000;regime moteur;;0;0
+C68A;mot;3;0;11000;a determiner;word_C942;0;0
+C3EE;mot;3;0;4910;regime moteur;;1;0
+C5BC;mot;3;32768;36128;a determiner;;0;3
+D1F4;mot;3;0;5000;regime moteur;;0;0
+C562;mot;3;0;20000;a determiner;;1;2
+C586;mot;3;3731;8731;EGT Kx10 -> 100..600 C;;0;3
+D36A;mot;3;0;255;ADC 10 bits (brut);;0;0
+D5AE;mot;3;1;30000;a determiner;;0;0
+C77A;mot;2;6667;31667;a determiner;;0;2
+C78A;mot;2;0;7900;a determiner;;0;0
+C3A8;mot;2;400;2400;quantite/consigne;;0;0
+C612;mot;2;700;2200;quantite/consigne;word_C944;0;0
+C38E;mot;2;626;960;ADC 10 bits (brut);;0;0
+D1B6;mot;2;500;11000;quantite/consigne;;0;0
+C596;mot;2;0;3000;regime moteur;;0;1
+C5A4;mot;2;2431;3331;temperature Kx10 -> -30..60 C;;0;2
+C5FA;mot;2;2331;3631;temperature Kx10 -> -40..90 C;;0;1
+C7C6;mot;2;1000;12000;quantite/consigne;word_C990;0;0
+D369;octet;2;0;255;0..255 brut;;0;0
+D36C;mot;2;0;14701;a determiner;;0;0
+C3E6;mot;2;0;11500;DEBIT D'AIR mg/s (confirme);;3;0
+C6DA;mot;2;118;10000;consigne de quantite;word_C952;0;0
+D000;mot;1;0;10000;a determiner;;0;0
+C63C;mot;1;0;15360;a determiner;;0;1
+D002;mot;1;0;500;ADC 10 bits (brut);;0;0
+D006;mot;1;0;1200;petite grandeur / %;;0;0
+D008;mot;1;0;1280;regime moteur;;0;0
+D012;mot;1;0;14000;a determiner;;0;0
+D03A;mot;1;485;970;ADC 10 bits (brut);;0;0
+D03C;mot;1;0;788;ADC 10 bits (brut);;0;0
+D044;mot;1;20;1003;ADC 10 bits (brut);;0;0
+D048;mot;1;32;1023;ADC 10 bits (brut);;0;0
+D04A;mot;1;10;991;ADC 10 bits (brut);;0;0
+D04C;mot;1;51;972;ADC 10 bits (brut);;0;0
+D052;mot;1;20;1003;ADC 10 bits (brut);;0;0
+D054;mot;1;0;1023;ADC 10 bits (brut);;0;0
+D056;mot;1;102;922;ADC 10 bits (brut);;0;0
+D05E;mot;1;32;969;ADC 10 bits (brut);;0;0
+D060;mot;1;20;1023;ADC 10 bits (brut);;0;0
+D066;mot;1;192;1064;petite grandeur / %;;0;0
+D06C;mot;1;40;962;ADC 10 bits (brut);;0;0
+D06E;mot;1;59;328;ADC 10 bits (brut);;0;0
+D070;mot;1;102;691;ADC 10 bits (brut);;0;0
+D072;mot;1;2;4;ADC 10 bits (brut);;0;0
+D07C;mot;1;0;1023;ADC 10 bits (brut);;0;0
+D07E;mot;1;0;1023;ADC 10 bits (brut);;0;0
+D080;mot;1;2;4;ADC 10 bits (brut);;0;0
+D082;mot;1;2;4;ADC 10 bits (brut);;0;0
+C3AA;mot;1;57;340;ADC 10 bits (brut);;0;0
+D084;mot;1;42;1002;ADC 10 bits (brut);;0;0
+D094;mot;1;2731;4051;temperature Kx10 -> -0..132 C;;0;0
+D092;mot;1;700;2002;quantite/consigne;;0;0
+C4CE;mot;1;0;3000;regime moteur;;0;1
+C3DA;mot;1;6667;28333;a determiner;;0;1
+D17C;mot;1;0;180;ADC 10 bits (brut);;0;0
+C7CA;mot;1;500;1000;ADC 10 bits (brut);;0;0
+C4D8;mot;1;400;5000;quantite/consigne;;0;0
+C337;octet;1;0;250;0..255 brut;;0;0
+C3F8;mot;1;32;1013;ADC 10 bits (brut);;0;1
+C588;mot;1;2631;3331;temperature Kx10 -> -10..60 C;;0;4
+C61C;mot;1;0;7000;regime moteur;;0;1
+D1E6;mot;1;0;20000;a determiner;;0;0
+D1F6;mot;1;500;6000;quantite/consigne;;0;0
+D1FE;mot;1;500;6000;quantite/consigne;;0;0
+D202;mot;1;1000;3000;quantite/consigne;;0;0
+C590;mot;1;0;90;ADC 10 bits (brut);;1;0
+D230;mot;1;2731;2931;temperature Kx10 -> -0..20 C;;0;0
+D232;mot;1;2531;2931;temperature Kx10 -> -20..20 C;;0;0
+D234;mot;1;2531;2931;temperature Kx10 -> -20..20 C;;0;0
+C5FE;mot;1;2431;3931;temperature Kx10 -> -30..120 C;;0;0
+C58E;mot;1;0;1;ADC 10 bits (brut);;0;1
+C6B6;mot;1;0;10000;a determiner;word_C942;1;0
+D356;mot;1;60036;61046;a determiner;;0;0
+D366;mot;1;0;224;ADC 10 bits (brut);;0;0
+C3EC;mot;1;700;850;ADC 10 bits (brut);;2;0
+D3CC;mot;1;2231;4231;temperature Kx10 -> -50..150 C;;0;0
+D3D4;mot;1;0;8000;a determiner;;0;0
+D4AC;mot;1;1000;3000;quantite/consigne;;0;0
+C7B8;mot;1;2000;13000;a determiner;;0;0
+C7C4;mot;1;1000;2500;quantite/consigne;;0;1
+D014;mot;1;0;9000;a determiner;;0;0
+D556;mot;1;0;14000;a determiner;;0;0
+D578;mot;1;0;1923;regime moteur;;0;0
+D590;mot;1;0;7000;regime moteur;;0;0
+C3E8;mot;1;0;2000;regime moteur;word_C90C;0;0
+D5A2;mot;1;4731;5731;EGT Kx10 -> 200..300 C;;0;0
+D5B0;mot;1;100;500;ADC 10 bits (brut);;0;0

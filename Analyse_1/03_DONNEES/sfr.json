@@ -1,0 +1,1391 @@
+{
+"DPP0": {
+"size": 2,
+"xrefs": [
+"sub_88384\u2193w",
+"sub_88462+3C\u2193w",
+"..."
+],
+"desc": "Data Page Pointer 0 Register"
+},
+"DPP1": {
+"size": 2,
+"xrefs": [
+"sub_88384+4\u2193w",
+"sub_8874E+10\u2193w",
+"..."
+],
+"desc": "Data Page Pointer 1 Register"
+},
+"DPP2": {
+"size": 2,
+"xrefs": [
+"sub_88384+8\u2193w",
+"sub_8874E+14\u2193w",
+"..."
+],
+"desc": "Data Page Pointer 2 Register"
+},
+"DPP3": {
+"size": 2,
+"xrefs": [
+"sub_88384+C\u2193w",
+"sub_8874E+18\u2193w",
+"..."
+],
+"desc": "Data Page Pointer 3 Register"
+},
+"CSP": {
+"size": 2,
+"xrefs": [
+"sub_8937E+84\u2193r"
+],
+"desc": "Code Segment Pointer Register"
+},
+"EMUCON": {
+"size": 2,
+"xrefs": [],
+"desc": "Emulation Control Reg."
+},
+"MDH": {
+"size": 2,
+"xrefs": [
+"ROM:0008E26C\u2193r",
+"ROM:0008E29E\u2193r",
+"..."
+],
+"desc": "Multiply Divide Register - High Word"
+},
+"MDL": {
+"size": 2,
+"xrefs": [
+"ROM:00089134\u2193r",
+"ROM:00089B38\u2193r",
+"..."
+],
+"desc": "Multiply Divide Register - Low Word"
+},
+"CP": {
+"size": 2,
+"xrefs": [
+"sub_88384+40\u2193w",
+"sub_8FFA6\u2193w",
+"..."
+],
+"desc": "Context Pointer Register"
+},
+"SP": {
+"size": 2,
+"xrefs": [
+"sub_8874E+D6\u2193w",
+"seg013:010E\u2193w"
+],
+"desc": "Stack Pointer Register"
+},
+"STKOV": {
+"size": 2,
+"xrefs": [
+"sub_8874E+D2\u2193w",
+"seg013:0106\u2193w"
+],
+"desc": "Stack Overflow Pointer Register"
+},
+"STKUN": {
+"size": 2,
+"xrefs": [
+"sub_8874E+CE\u2193w",
+"sub_8874E+D6\u2193r",
+"..."
+],
+"desc": "Stack Underflow Pointer Register"
+},
+"CPUCON1": {
+"size": 2,
+"xrefs": [
+"sub_88384+10\u2193w",
+"sub_90D4C:loc_90D6A\u2193w"
+],
+"desc": "CPU Control Register 1"
+},
+"CPUCON2": {
+"size": 2,
+"xrefs": [
+"sub_88384+18\u2193w"
+],
+"desc": "CPU Control Register 2"
+},
+"word_FE1C": {
+"size": 2,
+"xrefs": [
+"sub_88384+20\u2193w",
+"sub_90D4C+16\u2193w"
+],
+"desc": ""
+},
+"word_FE1E": {
+"size": 2,
+"xrefs": [
+"sub_88384+28\u2193w",
+"sub_90D4C+26\u2193w",
+"..."
+],
+"desc": ""
+},
+"CC2_SEM": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Single Event Control Register"
+},
+"CC2_SEE": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Single Event Enable Register"
+},
+"CC1_SEM": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Single Event Control Register"
+},
+"CC1_SEE": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Single Event Enable Register"
+},
+"word_FE30": {
+"size": 2,
+"xrefs": [
+"seg014:C95A\u2193w"
+],
+"desc": ""
+},
+"word_FE32": {
+"size": 2,
+"xrefs": [
+"seg014:C976\u2193w",
+"seg014:C97A\u2193r",
+"..."
+],
+"desc": ""
+},
+"GPT12E_T2": {
+"size": 2,
+"xrefs": [
+"sub_8E932+90\u2193w"
+],
+"desc": "GPT1 Timer 2 Register"
+},
+"GPT12E_T3": {
+"size": 2,
+"xrefs": [
+"sub_8E31C+2BE\u2193w",
+"sub_8E932+64\u2193w",
+"..."
+],
+"desc": "GPT1 Timer 3 Register"
+},
+"GPT12E_T4": {
+"size": 2,
+"xrefs": [
+"seg013:40C2\u2193r",
+"seg013:loc_940D8\u2193r",
+"..."
+],
+"desc": "GPT1 Timer 4 Register"
+},
+"GPT12E_T5": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT2 Timer 5 Register"
+},
+"GPT12E_T6": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT2 Timer 6 Register"
+},
+"GPT12E_CAPREL": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT12 Capture/Reload Register"
+},
+"GPT12E_PISEL": {
+"size": 2,
+"xrefs": [],
+"desc": "Port Input Select Register"
+},
+"CC1_T0": {
+"size": 2,
+"xrefs": [
+"sub_88922+14\u2193r",
+"sub_88A6C+C\u2193r",
+"..."
+],
+"desc": "CAPCOM 1 Timer 0 Register"
+},
+"CC1_T1": {
+"size": 2,
+"xrefs": [
+"sub_8874E+5960\u2193r",
+"seg016:975E\u2193w",
+"..."
+],
+"desc": "CAPCOM 1 Timer 1 Register"
+},
+"CC1_T0REL": {
+"size": 2,
+"xrefs": [
+"seg016:7570\u2193w"
+],
+"desc": "CAPCOM 1 Timer 0 Reload Register"
+},
+"CC1_T1REL": {
+"size": 2,
+"xrefs": [
+"seg016:83A6\u2193w",
+"seg016:975A\u2193r",
+"..."
+],
+"desc": "CC Timer 1 Reloed Register"
+},
+"OPSEN": {
+"size": 2,
+"xrefs": [],
+"desc": "OCE/OCDS P-Susp. En. Reg"
+},
+"TSTMOD": {
+"size": 2,
+"xrefs": [],
+"desc": "Test-Mode Register"
+},
+"MAL": {
+"size": 2,
+"xrefs": [],
+"desc": "MAC Accumulator Low Word"
+},
+"MAH": {
+"size": 2,
+"xrefs": [],
+"desc": "MAC Accumulator High Word"
+},
+"CC2_CC16": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 16"
+},
+"CC2_CC17": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 17"
+},
+"CC2_CC18": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 18"
+},
+"CC2_CC19": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 19"
+},
+"CC2_CC20": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 20"
+},
+"CC2_CC21": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 21"
+},
+"CC2_CC22": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 22"
+},
+"CC2_CC23": {
+"size": 2,
+"xrefs": [
+"seg013:48B2\u2193w"
+],
+"desc": "CAPCOM 2 Register 23"
+},
+"CC2_CC24": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 24"
+},
+"CC2_CC25": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 25"
+},
+"CC2_CC26": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 26"
+},
+"CC2_CC27": {
+"size": 2,
+"xrefs": [
+"seg013:0E6E\u2193w",
+"seg013:0E72\u2193r",
+"..."
+],
+"desc": "CAPCOM 2 Register 27"
+},
+"CC2_CC28": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 28"
+},
+"CC2_CC29": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 29"
+},
+"CC2_CC30": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 30"
+},
+"CC2_CC31": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Register 31"
+},
+"CC1_CC0": {
+"size": 2,
+"xrefs": [
+"sub_88A48+A\u2193w",
+"sub_88A6C+14\u2193w"
+],
+"desc": "CAPCOM 1 Register 0"
+},
+"CC1_CC1": {
+"size": 2,
+"xrefs": [
+"ROM:00089002\u2193w",
+"ROM:00089620\u2193w",
+"..."
+],
+"desc": "CAPCOM 1 Register 1"
+},
+"CC1_CC2": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 2"
+},
+"CC1_CC3": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 3"
+},
+"CC1_CC4": {
+"size": 2,
+"xrefs": [
+"sub_8874E+5974\u2193w"
+],
+"desc": "CAPCOM 1 Register 4"
+},
+"CC1_CC5": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 5"
+},
+"CC1_CC6": {
+"size": 2,
+"xrefs": [
+"seg016:7696\u2193r"
+],
+"desc": "CAPCOM 1 Register 6"
+},
+"CC1_CC7": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 7"
+},
+"CC1_CC8": {
+"size": 2,
+"xrefs": [
+"sub_8874E+52\u2193r",
+"sub_8874E+5E\u2193w",
+"..."
+],
+"desc": "CAPCOM 1 Register 8"
+},
+"CC1_CC9": {
+"size": 2,
+"xrefs": [
+"seg017:00FC\u2193w",
+"seg017:013C\u2193w"
+],
+"desc": "CAPCOM 1 Register 9"
+},
+"CC1_CC10": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 10"
+},
+"CC1_CC11": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 11"
+},
+"CC1_CC12": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 12"
+},
+"CC1_CC13": {
+"size": 2,
+"xrefs": [
+"seg014:E6D4\u2193r",
+"seg014:loc_AE6E0\u2193r",
+"..."
+],
+"desc": "CAPCOM 1 Register 13"
+},
+"CC1_CC14": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 1 Register 14"
+},
+"CC1_CC15": {
+"size": 2,
+"xrefs": [
+"sub_8874E+4C\u2193r",
+"sub_8874E+64\u2193w",
+"..."
+],
+"desc": "CAPCOM 1 Register 15"
+},
+"ADC_DAT": {
+"size": 2,
+"xrefs": [
+"sub_88B7E+1A\u2193r",
+"sub_89A28+54\u2193r",
+"..."
+],
+"desc": "A/D Converter Result Register"
+},
+"ADC_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "A/D Converter ID Register"
+},
+"ASC0_PMW": {
+"size": 2,
+"xrefs": [],
+"desc": "ASC0 IrDA Pulse Mode and Width Reg."
+},
+"ASC1_PMW": {
+"size": 2,
+"xrefs": [],
+"desc": "ASC1 IrDA Pulse Mode and Width Reg."
+},
+"WDT": {
+"size": 2,
+"xrefs": [],
+"desc": "Watchdog Timer Register (RO)"
+},
+"ASC0_TBUF": {
+"size": 2,
+"xrefs": [
+"ROM:0008958E\u2193w",
+"sub_8E31C+2B4\u2193w",
+"..."
+],
+"desc": "Serial Channel 0 Transmitter Buffer Register (WO)"
+},
+"ASC0_RBUF": {
+"size": 2,
+"xrefs": [
+"sub_8EBC2+88\u2193r",
+"sub_8ECB2+18A\u2193r",
+"..."
+],
+"desc": "Serial Channel 0 Receiver Buffer Register (RO)"
+},
+"ASC0_BG": {
+"size": 2,
+"xrefs": [
+"sub_8E76A+4\u2193w",
+"seg017:loc_D0392\u2193w",
+"..."
+],
+"desc": "Serial Channel 0 Baud Rate Generator Reload Register"
+},
+"ASC0_FDV": {
+"size": 2,
+"xrefs": [],
+"desc": "Fractional Divider Register"
+},
+"ASC1_TBUF": {
+"size": 2,
+"xrefs": [],
+"desc": "Serial Channel 1 Transmitter Buffer Register (WO)"
+},
+"ASC1_RBUF": {
+"size": 2,
+"xrefs": [],
+"desc": "Serial Channel 1 Receiver Buffer Register (RO)"
+},
+"ASC1_BG": {
+"size": 2,
+"xrefs": [],
+"desc": "Serial Channel 1 Baud Rate Generator Reload Register"
+},
+"ASC1_FDV": {
+"size": 2,
+"xrefs": [],
+"desc": "Fractional Divider Register"
+},
+"PECC0": {
+"size": 2,
+"xrefs": [
+"sub_8E31C+E2\u2193w",
+"sub_8E31C+21C\u2193w",
+"..."
+],
+"desc": "PEC Channel 0 Control Register"
+},
+"PECC1": {
+"size": 2,
+"xrefs": [
+"sub_94428:loc_94438\u2193w",
+"seg013:49C2\u2193w",
+"..."
+],
+"desc": "PEC Channel 1 Control Register"
+},
+"PECC2": {
+"size": 2,
+"xrefs": [
+"sub_CF9A2+14\u2193w",
+"seg016:FAFA\u2193w",
+"..."
+],
+"desc": "PEC Channel 2 Control Register"
+},
+"PECC3": {
+"size": 2,
+"xrefs": [],
+"desc": "PEC Channel 3 Control Register"
+},
+"PECC4": {
+"size": 2,
+"xrefs": [
+"seg017:0436\u2193w",
+"seg017:04BE\u2193w",
+"..."
+],
+"desc": "PEC Channel 4 Control Register"
+},
+"PECC5": {
+"size": 2,
+"xrefs": [
+"seg016:757C\u2193w",
+"seg016:7692\u2193r",
+"..."
+],
+"desc": "PEC Channel 5 Control Register"
+},
+"PECC6": {
+"size": 2,
+"xrefs": [
+"seg017:0422\u2193w",
+"seg017:loc_D0482\u2193r",
+"..."
+],
+"desc": "PEC Channel 6 Control Register"
+},
+"PECC7": {
+"size": 2,
+"xrefs": [
+"sub_C4A4C+24\u2193w",
+"seg016:4C04\u2193w",
+"..."
+],
+"desc": "PEC Channel 7 Control Register"
+},
+"P0L": {
+"size": 2,
+"xrefs": [],
+"desc": "PORT0 Low Register"
+},
+"P0H": {
+"size": 2,
+"xrefs": [],
+"desc": "Port 0 High Register (Upper half)"
+},
+"P1L": {
+"size": 2,
+"xrefs": [
+"ROM:0008867A\u2193w",
+"ROM:000886A8\u2193r",
+"..."
+],
+"desc": "Port 1 Low Register"
+},
+"P1H": {
+"size": 2,
+"xrefs": [
+"ROM:00088682\u2193w",
+"ROM:000886AC\u2193r",
+"..."
+],
+"desc": "Port 1 High Register"
+},
+"IDX0": {
+"size": 2,
+"xrefs": [],
+"desc": "MAC Unit Address Pointer"
+},
+"IDX1": {
+"size": 2,
+"xrefs": [],
+"desc": "MAC Unit Address Pointer"
+},
+"SPSEG": {
+"size": 2,
+"xrefs": [
+"sub_90D4C+8\u2193w",
+"sub_90D4C+C\u2193w"
+],
+"desc": "Stack Pointer Segment Register"
+},
+"MDC": {
+"size": 2,
+"xrefs": [
+"seg013:400C\u2193w",
+"seg013:4052\u2193w",
+"..."
+],
+"desc": "Multiply Divide Control Register"
+},
+"PSW": {
+"size": 2,
+"xrefs": [
+"sub_88084+228\u2193r",
+"sub_88084+230\u2193w",
+"..."
+],
+"desc": "Processor Status Word"
+},
+"VECSEG": {
+"size": 2,
+"xrefs": [
+"sub_88384+36\u2193w",
+"sub_88384+38\u2193w",
+"..."
+],
+"desc": "Vector  Segment Pointer"
+},
+"word_FF14": {
+"size": 2,
+"xrefs": [
+"sub_88384+14\u2193w",
+"ROM:00088660\u2193r",
+"..."
+],
+"desc": ""
+},
+"P9": {
+"size": 2,
+"xrefs": [
+"sub_88384+1C\u2193w"
+],
+"desc": "Port 9 Data Register"
+},
+"DP9": {
+"size": 2,
+"xrefs": [
+"sub_88384+24\u2193w",
+"sub_90D4C+1A\u2193w"
+],
+"desc": "Port 9 Direction Control Register"
+},
+"ODP9": {
+"size": 2,
+"xrefs": [
+"sub_90D4C+34\u2193w",
+"sub_90D4C:loc_90D86\u2193w"
+],
+"desc": "Port 9 Open Drain Control Register"
+},
+"ZEROS": {
+"size": 2,
+"xrefs": [
+"sub_88084:loc_88352\u2193r",
+"sub_88462+34\u2193r",
+"..."
+],
+"desc": "Constant Zeros Register"
+},
+"ONES": {
+"size": 2,
+"xrefs": [
+"sub_88462+5C\u2193r",
+"sub_88462+B0\u2193r",
+"..."
+],
+"desc": "Constant Ones Register"
+},
+"CC2_T78CON": {
+"size": 2,
+"xrefs": [
+"sub_8874E+24\u2193w",
+"seg013:49DC\u2193w",
+"..."
+],
+"desc": "CAPCOM 2 Timer 7 and Timer 8 Control Register"
+},
+"CC2_M4": {
+"size": 2,
+"xrefs": [],
+"desc": "CC Mode Control Register 4"
+},
+"CC2_M5": {
+"size": 2,
+"xrefs": [],
+"desc": "CC Mode Control Register 5"
+},
+"CC2_M6": {
+"size": 2,
+"xrefs": [],
+"desc": "CC Mode Control Register 6"
+},
+"CC2_M7": {
+"size": 2,
+"xrefs": [],
+"desc": "CC Mode Control Register 7"
+},
+"CC2_DRM": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Double Register Mode Register"
+},
+"CC2_OUT": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM 2 Output Register"
+},
+"word_FF30": {
+"size": 2,
+"xrefs": [
+"seg014:C836\u2193w",
+"seg014:C83A\u2193w",
+"..."
+],
+"desc": ""
+},
+"word_FF32": {
+"size": 2,
+"xrefs": [
+"seg014:C83E\u2193w",
+"seg014:C842\u2193w",
+"..."
+],
+"desc": ""
+},
+"GPT12E_T2CON": {
+"size": 2,
+"xrefs": [
+"sub_8E31C:loc_8E51A\u2193w",
+"sub_8E80E:loc_8E852\u2193w",
+"..."
+],
+"desc": "GPT1 Timer 2 Control Register"
+},
+"GPT12E_T3CON": {
+"size": 2,
+"xrefs": [
+"sub_8E80E+48\u2193w"
+],
+"desc": "GPT1 Timer 3 Control Register"
+},
+"GPT12E_T4CON": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT1 Timer 4 Control Register"
+},
+"GPT12E_T5CON": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT2 Timer 5 Control Register"
+},
+"GPT12E_T6CON": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT2 Timer 6 Control Register"
+},
+"CC1_T01CON": {
+"size": 2,
+"xrefs": [
+"sub_8874E+A\u2193r",
+"sub_8874E+20\u2193w",
+"..."
+],
+"desc": "Timer 0/1 Control Register"
+},
+"CC1_M0": {
+"size": 2,
+"xrefs": [
+"sub_8874E+8\u2193r",
+"sub_8874E+1C\u2193w",
+"..."
+],
+"desc": "Capture/Compare Mode Registers for the CAPCOM Unit (CC0...CC3)"
+},
+"CC1_M1": {
+"size": 2,
+"xrefs": [
+"sub_8874E+5916\u2193w",
+"seg015:loc_B0000\u2193w",
+"..."
+],
+"desc": "Capture/Compare Mode Register for the CAPCOM Unit (CC4...CC79)"
+},
+"CC1_M2": {
+"size": 2,
+"xrefs": [
+"sub_8874E+46\u2193r",
+"sub_8874E+6A\u2193w",
+"..."
+],
+"desc": "Capture/Compare Mode Registers for the CAPCOM Unit (CC8...CC11)"
+},
+"CC1_M3": {
+"size": 2,
+"xrefs": [
+"sub_8874E+40\u2193r",
+"sub_8874E+70\u2193w",
+"..."
+],
+"desc": "Capture/Compare Mode Registers for the CAPCOM Unit (CC12...CC15)"
+},
+"CC1_DRM": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM1 Double Register Mode Register"
+},
+"CC1_OUT": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM1 Output Register"
+},
+"SSC1_CON": {
+"size": 2,
+"xrefs": [],
+"desc": "SSC1 Control Register"
+},
+"GPT12E_T2IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+FE\u2193w",
+"sub_8FB38+62\u2193w",
+"..."
+],
+"desc": "GPT1 Timer 2 Interrupt Control Register"
+},
+"GPT12E_T3IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+100\u2193w",
+"sub_8874E:loc_8E14A\u2193r",
+"..."
+],
+"desc": "GPT1 Timer 3 Interrupt Control Register"
+},
+"GPT12E_T4IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+102\u2193w"
+],
+"desc": "GPT1 Timer 4 Interrupt Control Register"
+},
+"GPT12E_T5IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+104\u2193w"
+],
+"desc": "GPT2 Timer 5 Interrupt Control Register"
+},
+"GPT12E_T6IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+106\u2193w"
+],
+"desc": "GPT2 Timer 6 Interrupt Control Register"
+},
+"GPT12E_CRIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+108\u2193w"
+],
+"desc": "GPT2 CAPREL Interrupt Control Register"
+},
+"ASC0_TIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+10E\u2193w",
+"seg017:044A\u2193w",
+"..."
+],
+"desc": "ASC0 Transmit Interrupt Control Register"
+},
+"ASC0_RIC": {
+"size": 2,
+"xrefs": [
+"ROM:loc_8958C\u2193w",
+"ROM:loc_89594\u2193r",
+"..."
+],
+"desc": "ASC0 Receive Interrupt Control Register"
+},
+"ASC0_EIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+110\u2193w",
+"seg017:loc_D03FC\u2193w",
+"..."
+],
+"desc": "ASC0 Error Interrupt Control Register"
+},
+"SSC0_TIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+112\u2193w"
+],
+"desc": "SSC0 Transmit Interrupt Control Register"
+},
+"SSC0_RIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+114\u2193w",
+"sub_8874E+116\u2193w"
+],
+"desc": "SSC0 Receive Interrupt Control Register"
+},
+"SSC0_EIC": {
+"size": 2,
+"xrefs": [
+"sub_97E76+22\u2193w",
+"sub_97ECA+8\u2193w",
+"..."
+],
+"desc": "SSC0 Error Interrupt Control Register"
+},
+"CC1_CC0IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+6\u2193r",
+"sub_8874E+28\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 0 Interrupt Control Register"
+},
+"CC1_CC1IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+DC\u2193w",
+"sub_8874E+170\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 1 Interrupt Control Register"
+},
+"CC1_CC2IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+DE\u2193w",
+"sub_8874E+174\u2193w"
+],
+"desc": "CAPCOM Channel 2 Interrupt Control Register"
+},
+"CC1_CC3IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+E0\u2193w",
+"sub_8874E+178\u2193w"
+],
+"desc": "CAPCOM Channel 3 Interrupt Control Register"
+},
+"CC1_CC4IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+E2\u2193w",
+"sub_8874E+591A\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 4 Interrupt Control Register"
+},
+"CC1_CC5IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+E4\u2193w",
+"sub_8874E+591E\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 5 Interrupt Control Register"
+},
+"CC1_CC6IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+E6\u2193w",
+"sub_8874E+5922\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 6 Interrupt Control Register"
+},
+"CC1_CC7IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+E8\u2193w",
+"sub_8874E+5926\u2193w",
+"..."
+],
+"desc": "CC Register 7 Interrupt Control Register"
+},
+"CC1_CC8IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+3A\u2193r",
+"sub_8874E+76\u2193w",
+"..."
+],
+"desc": "CC Register 8 Interrupt Control Register"
+},
+"CC1_CC9IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+EC\u2193w",
+"seg017:0048\u2193w",
+"..."
+],
+"desc": "CC Register 9 Interrupt Control Register"
+},
+"CC1_CC10IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+EE\u2193w"
+],
+"desc": "CAPCOM Channel 10 Interrupt Control Register"
+},
+"CC1_CC11IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+F0\u2193w"
+],
+"desc": "CAPCOM Channel 11 Interrupt Control Register"
+},
+"CC1_CC12IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+F2\u2193w"
+],
+"desc": "CAPCOM Channel 12 Interrupt Control Register"
+},
+"CC1_CC13IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+F4\u2193w",
+"seg014:E6C2\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 13 Interrupt Control Register"
+},
+"CC1_CC14IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+F6\u2193w"
+],
+"desc": "CAPCOM Channel 14 Interrupt Control Register"
+},
+"CC1_CC15IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+34\u2193r",
+"sub_8874E+7C\u2193w",
+"..."
+],
+"desc": "CAPCOM Channel 15 Interrupt Control Register"
+},
+"ADC_CIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+10A\u2193w",
+"sub_88B7E+10\u2193w",
+"..."
+],
+"desc": "ADC End of Conversion Interrupt Control Register"
+},
+"ADC_EIC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+10C\u2193w"
+],
+"desc": "ADC Overrun Error Control Register"
+},
+"CC1_T0IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+FA\u2193w",
+"sub_8937E+76\u2193w",
+"..."
+],
+"desc": "CAPCOM 1 Timer 0 Interrupt Control Register"
+},
+"CC1_T1IC": {
+"size": 2,
+"xrefs": [
+"sub_8874E+FC\u2193w",
+"sub_8937E+78\u2193w"
+],
+"desc": "CC Timer 1 Interrupt Control Register"
+},
+"ADC_CON": {
+"size": 2,
+"xrefs": [
+"sub_88B7E+4\u2193w",
+"sub_89A28+44\u2193w",
+"..."
+],
+"desc": "A/D Converter Control Register"
+},
+"P5": {
+"size": 2,
+"xrefs": [
+"sub_88A6C:loc_88B42\u2193r"
+],
+"desc": "Port 5 Data Register"
+},
+"P5DIDIS": {
+"size": 2,
+"xrefs": [],
+"desc": "Port 5 Digital Input Disable"
+},
+"ADC_CON1": {
+"size": 2,
+"xrefs": [],
+"desc": "A/D Converter Control Register 1"
+},
+"PECISNC": {
+"size": 2,
+"xrefs": [],
+"desc": "PEC Interrupt Subnode Control Register"
+},
+"FOCON": {
+"size": 2,
+"xrefs": [],
+"desc": "Frequency Output Control Register"
+},
+"TFR": {
+"size": 2,
+"xrefs": [],
+"desc": "Trap Flag Register"
+},
+"WDTCON": {
+"size": 2,
+"xrefs": [
+"sub_88384+4E\u2193w",
+"sub_88462+E6\u2193w",
+"..."
+],
+"desc": "Watchdog Timer Control Register"
+},
+"ASC0_CON": {
+"size": 2,
+"xrefs": [
+"sub_8E76A+E\u2193w",
+"sub_8E76A:loc_8E77E\u2193w",
+"..."
+],
+"desc": "Serial Channel 0 Control Register"
+},
+"SSC0_CON": {
+"size": 2,
+"xrefs": [
+"sub_97E42+2\u2193w",
+"sub_97E42+4\u2193w",
+"..."
+],
+"desc": "SSC Control Register"
+},
+"P20": {
+"size": 2,
+"xrefs": [],
+"desc": "Port 20 Data Register"
+},
+"DP20": {
+"size": 2,
+"xrefs": [],
+"desc": "Port 20 Direction Control Register"
+},
+"ASC1_CON": {
+"size": 2,
+"xrefs": [],
+"desc": "DCH Serial Channel 1 Control Register"
+},
+"ADC_CTR0": {
+"size": 2,
+"xrefs": [],
+"desc": "DFH A/D Converter Control Register 0"
+},
+"P2": {
+"size": 2,
+"xrefs": [
+"sub_88084+232\u2193r",
+"sub_88084+23A\u2193w",
+"..."
+],
+"desc": "Port 2 Data Register"
+},
+"DP2": {
+"size": 2,
+"xrefs": [
+"sub_88462+96\u2193w",
+"sub_90216+4\u2193w",
+"..."
+],
+"desc": "Port 2 Direction Control Register"
+},
+"P3": {
+"size": 2,
+"xrefs": [
+"ROM:000896C4\u2193r",
+"ROM:000896CC\u2193w",
+"..."
+],
+"desc": "E2H Port 3 Data Register"
+},
+"DP3": {
+"size": 2,
+"xrefs": [
+"sub_8C6C2+4\u2193w",
+"sub_8C6C2+18\u2193w",
+"..."
+],
+"desc": "E3H Port 3 Direction Control Register"
+},
+"P4": {
+"size": 2,
+"xrefs": [
+"ROM:0008868A\u2193w",
+"ROM:000886B0\u2193r",
+"..."
+],
+"desc": "E4H Port 4 Data Register"
+},
+"DP4": {
+"size": 2,
+"xrefs": [
+"ROM:0008868E\u2193w",
+"ROM:000886A0\u2193w",
+"..."
+],
+"desc": "E5H Port 4 Direction Control Register"
+},
+"P6": {
+"size": 2,
+"xrefs": [
+"sub_90216+28\u2193w",
+"sub_CBD6A:loc_CBD70\u2193w",
+"..."
+],
+"desc": "Port 6 Data Register"
+},
+"DP6": {
+"size": 2,
+"xrefs": [
+"sub_90216+2C\u2193w",
+"seg016:BDE6\u2193w",
+"..."
+],
+"desc": "Port 6 Direction Control Register"
+},
+"P7": {
+"size": 2,
+"xrefs": [
+"sub_90216+30\u2193w",
+"seg014:C84E\u2193w",
+"..."
+],
+"desc": "Port 7 Data Register"
+},
+"DP7": {
+"size": 2,
+"xrefs": [
+"sub_90216+34\u2193w",
+"seg014:C85C\u2193w",
+"..."
+],
+"desc": "Port 7 Direction Control Register"
+},
+"word_FFD4": {
+"size": 2,
+"xrefs": [
+"sub_90216+38\u2193w",
+"seg016:6BB2\u2193r",
+"..."
+],
+"desc": ""
+},
+"word_FFD6": {
+"size": 2,
+"xrefs": [
+"sub_90216+3C\u2193w",
+"sub_CD610+132\u2193w",
+"..."
+],
+"desc": ""
+},
+"MRW": {
+"size": 2,
+"xrefs": [],
+"desc": "EDH MAC Repeat Word"
+},
+"MCW": {
+"size": 2,
+"xrefs": [],
+"desc": "EEH MAC Control Word"
+},
+"MSW": {
+"size": 2,
+"xrefs": [],
+"desc": "EFH MAC Unit Status Word"
+},
+"ASC0_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "ASC0 Identification Register"
+},
+"SSC0_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "SSC0 Module Identification Register"
+},
+"GPT12E_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "GPT Identification Register"
+},
+"CC1_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM1 Module Identification Register"
+},
+"CC2_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "CAPCOM2 Module Identification Register"
+},
+"SSC1_ID": {
+"size": 2,
+"xrefs": [],
+"desc": "Module Identification Register"
+},
+"RTC_IDH": {
+"size": 2,
+"xrefs": [],
+"desc": "RTC Identification Register High File Name   : C:\\EDC15C2\\ECU_BIN\\Peugeot_406 22_HDI_4HX_YEAR_2002_ORIGINAL_ECU.bin Format      : Binary file Base Address: 0000h Range: 80000h - 100000h Loaded length: 80000h ==========================================================================="
+}
+}
